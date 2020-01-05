@@ -40,7 +40,7 @@ Here the steps for different analyses in the manuscript are explained.
 * Run compare-dbscan-gamma.R. The resulting figure is saved in figures/gamma-vs-dbscan.pdf
 # Find ideal insertion density
 * Run density-SL1344.R. The output is saved in false-positive-rate_density.pdf.
-# Geus-specific, single-copy, and multi-copy genes
+# Genus-specific, single-copy, and multi-copy genes
 * Run this command to add insertion indices to homologous clusters (the output is saved in results/merge-clust-plot): python merge-clust-plot.py ../results/homclust/EFam-clusters/ ../results/biases/dbscan/ ../results/ecogene-k12.txt ../results/merge-clust-plot
 * Run clust2plot.R to plot the genus-specific, single-copy, and multi-copy insertion indices in figures/cluster-essentiality.pdf
 # Define core essential and ancestrally essential genes

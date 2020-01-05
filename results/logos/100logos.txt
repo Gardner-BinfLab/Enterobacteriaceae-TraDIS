@@ -1,0 +1,2600 @@
+>SEN_3597779 forward
+cgtcatcgctatctaccctggcgccaaca
+>SEN_3598899 forward
+gatggtatctgtgctgaggctgtctcacc
+>SEN_16256 forward
+ttttcagcctggtctaggtcactctattc
+>SEN_3708549 backward
+agaccgtgctgtactacaccgctaactac
+>SEN_3164880 backward
+tgaaggggctctcttcaaccgagcgtgcg
+>SEN_2176827 backward
+ttgtcgctcagtatgcgaatgaggcattg
+>SEN_135479 backward
+gtttgacggacaccttaaccgctcgctat
+>SEN_3774263 forward
+ttcacgactggtttacggttgcgcattga
+>SEN_3071612 forward
+cttcggcgtagtacttatcctgaatatga
+>SEN_17448 forward
+caccagaacggagtaagcgggcgctgaga
+>SEN_4154872 backward
+caccgggatcgcgctgtactgcgcgacac
+>SEN_2297514 forward
+gcgcgcatcggccctacggtacgtgagct
+>SEN_35127 forward
+atggttaacatgcccgcaccgcgtgagcc
+>SEN_4132204 backward
+aaatcacactgttcttaccccgtctactg
+>SEN_2617488 forward
+gggttcgggcgtccaggtcaatctgctgg
+>SEN_4182647 forward
+gcgtcagacacaatatggctgtgccaaac
+>SEN_4093844 forward
+tggttttgctctctatggtagggacccac
+>SEN_3841877 backward
+gcgatggttggactggagccgctgccact
+>SEN_2503739 forward
+ccagcgaccagtcctggatcggcatactc
+>SEN_3222210 backward
+gcctaccgggggcgtacacagtccgatgg
+>SEN_3690195 forward
+aaaaccttcggccttactgaggtcgatct
+>SEN_4443476 backward
+ttaacgcgttacctaatgtcgtgcctaaa
+>SEN_4355934 forward
+gaaggagacagcctatagtattacattgt
+>SEN_4289055 forward
+taaacgcatcctcctggacaacttgcttt
+>SEN_3739544 forward
+tgatggagtcgttatgaagcgggtacttg
+>SEN_2985133 forward
+agtgttctttgcccaatagcgtgcggagt
+>SEN_4176734 backward
+tgtcattccagtccatgaggagccattag
+>SEN_3774682 backward
+cctttttacagcccagagagggctcgcca
+>SEN_570801 backward
+tgcacgagcagtgttaatgtgcgcttcac
+>SEN_4493101 backward
+tgccggaacaggccagagctaacactggt
+>SEN_2311260 backward
+cggcgggactgttgtgcatgtttctatat
+>SEN_135024 forward
+catttggtcgctattgccccgcgctggct
+>SEN_4616385 backward
+agccagagcagtacagcgccgtgctgatc
+>SEN_17456 backward
+tctcagcgcccgcttactccgttctggtg
+>SEN_3164872 forward
+cgcacgctcggttgaagagagccccttca
+>SEN_134085 backward
+agcataatgtgtcctgagtcacaccattg
+>SEN_4355220 backward
+ttatcgcccaccgtaccactgtctgagtc
+>SEN_4093846 forward
+gttttgctctctatggtagggacccacgt
+>SEN_3762083 backward
+gatgggtccagttctgtatagtcgaatag
+>SEN_36022 backward
+ccattgatacgtcctgacctggcgcgctt
+>SEN_2913584 forward
+ggcgcgctcagtgtaggactcaaccccag
+>SEN_4176432 backward
+tatcattaccctctactaccgggcaaact
+>SEN_3893892 backward
+gatggtcgtgctgcaaccctgcaggagca
+>SEN_134095 backward
+tgccagcgcaagcataatgtgtcctgagt
+>SEN_3774271 backward
+tcaatgcgcaaccgtaaaccagtcgtgaa
+>SEN_4055505 forward
+aacgcgtactgtctggaacaaccctactg
+>SEN_4575630 backward
+caatcaagcctgcccggactgtacagtac
+>SEN_3577876 forward
+gaagtgattgagtatggtcagcatgccga
+>SEN_4119430 forward
+gttcagcacagtctggcgcgttacgcgga
+>SEN_4575620 backward
+tgcccggactgtacagtaccggcattaaa
+>SEN_4119420 forward
+tcaattgcccgttcagcacagtctggcgc
+>SEN_3708344 backward
+atcttgcacagcactggtgctggcgttga
+>SEN_2070361 backward
+ctgcgtagcagtgtataggtgggcattgt
+>SEN_3691148 backward
+cgccttatcaagcctacaccgtacctgta
+>SEN_4090608 forward
+ccgccgcctacggtaaagcttgcccagtg
+>SEN_3690623 backward
+gataccgcctcttcatggctaatcgaaaa
+>SEN_3652827 forward
+atggcggcagatataggactggcggtgat
+>SEN_4549519 backward
+ggcaagacctgctctgaagcgtcaaaagg
+>SEN_3792087 forward
+agctcagatggcatagggctggtagattc
+>SEN_3794475 forward
+gcgattgatacccccacaccatcaagata
+>SEN_4616377 forward
+gatcagcacggcgctgtactgctctggct
+>SEN_4221735 backward
+agcggttagcccttcaaatgcgccttccc
+>SEN_4055523 backward
+aatgcacccccagtagggttgttccagac
+>SEN_2811911 forward
+gatttgcccgggttaagacagcgtcttcc
+>SEN_2070353 forward
+acaatgcccacctatacactgctacgcag
+>SEN_3172466 forward
+agcccaggcagtacaaccattactgggac
+>SEN_2913592 backward
+ctggggttgagtcctacactgagcgcgcc
+>SEN_1644460 forward
+aatcagcgtggtgcagatccccatcatgg
+>SEN_4181719 forward
+gtagtaagtactccagtactgagcgttgg
+>SEN_3599272 forward
+gcttgccaccatcttagccggtatgcttt
+>SEN_1510703 backward
+cgtgctggttcccatatagtgataaacgg
+>SEN_4156444 forward
+ggggaatgcagtccagactggcgaggatt
+>SEN_4156614 forward
+atattacgcagtgtggtacctccggcaat
+>SEN_4055513 backward
+cagtagggttgttccagacagtacgcgtt
+>SEN_3599115 backward
+aaacggccatgacataaactgctgggttc
+>SEN_383522 forward
+atggcgaccggtgccgttaacggtgtcaa
+>SEN_3599084 forward
+gagtgactgctccccacactggggaaccc
+>SEN_36014 forward
+aagcgcgccaggtcaggacgtatcaatgg
+>SEN_3172474 backward
+gtcccagtaatggttgtactgcctgggct
+>SEN_1014887 backward
+aaagtggactgtacaggtgggtctattcc
+>SEN_3708541 forward
+gtagttagcggtgtagtacagcacggtct
+>SEN_4132196 forward
+cagtagacggggtaagaacagtgtgattt
+>SEN_3708336 forward
+tcaacgccagcaccagtgctgtgcaagat
+>SEN_4340503 backward
+attgggagcagtgctacctacaaactgag
+>SEN_4356267 backward
+gaaggggaatcattaatatcatcctcggt
+>SEN_2381734 forward
+ggcacgcacagtgtaaggatgcactacca
+>SEN_3599092 backward
+gggttccccagtgtggggagcagtcactc
+>SEN_2371056 forward
+cgcaaacatgcacctgtacagtggtgtca
+>SEN_3598907 backward
+ggtgagacagcctcagcacagataccatc
+>SEN_3652835 backward
+atcaccgccagtcctatatctgccgccat
+>SEN_3718492 backward
+tttggggtcagtacaaagtgagcccacct
+>SEN_4181727 backward
+ccaacgctcagtactggagtacttactac
+>SEN_3330637 forward
+gcctgcttctcattaagcttctgctcaac
+>SEN_4156452 backward
+aatcctcgccagtctggactgcattcccc
+>SEN_3690615 forward
+ttttcgattagccatgaagaggcggtatc
+>SEN_4118440 backward
+atcaagataacttcaaggatgatgccttt
+>SEN_4511045 forward
+caatcgaccagattagcaccatcagaatg
+>SEN_4679950 forward
+ctaagacacggctgtagggagagcttatt
+>SEN_4470256 backward
+tgctccagcatacgtacaccctgcgcttc
+>SEN_4156622 backward
+attgccggaggtaccacactgcgtaatat
+>t_659383 backward
+ggcacgcacagtgtaaggatgcactacca
+>t_1226283 forward
+aaaatggactgtcttatccggtgcgataa
+>t_4447031 backward
+gtatgacgtagcttaataccgttatcacg
+>t_3923651 backward
+agctcagatggcatagggctggtagattc
+>t_3622744 forward
+atgtcaataaggttaaagttgactggact
+>t_1893689 forward
+gactcacgcagacctgacttgcgctaaca
+>t_3157272 backward
+gtcgggggtgggtttatacagcgtccatg
+>t_4649470 backward
+caattacgcagcgtaatgttgcatcgtcc
+>t_4515770 forward
+taagaagacggtccagcactggtattgca
+>t_542777 forward
+gattcagaaaggtctggagtgtagcacta
+>t_608579 forward
+tgaatgcacagcattaaccaggtcagccc
+>t_4499752 backward
+ttgtgactgacagtaataccgttcaggtg
+>t_3854497 forward
+gttatgaacagtacggggcttcatgcgcg
+>t_4596254 backward
+tgtcggaacaggccagagctaacactggt
+>t_3852053 backward
+gtggtaatcaggcatagaccgttcctttt
+>t_4524308 forward
+atcgtataggacataacactgtgtgggca
+>t_2718128 forward
+cagcttctcagtatgaagctggtcaatgt
+>t_3035330 forward
+ctgactgagagtctacaactatgccatcc
+>t_4071941 forward
+aaacatgtaggtgtaaccctgtactttat
+>t_3854505 backward
+cgcgcatgaagccccgtactgttcataac
+>t_35800 forward
+ttattagcgtctcctgtcctgcgcagcag
+>t_4069133 forward
+accaggaacagtccattaccgactaagga
+>t_3853760 forward
+ctaatgcacagctttcaggttacgattac
+>t_3852045 forward
+aaaaggaacggtctatgcctgattaccac
+>t_2763318 forward
+tcctgggaaaggttaagactgggactaaa
+>t_2600459 backward
+cgatcccactggccaatagtgtgccggag
+>t_4705382 forward
+ggaatgcacacctttagaccatacttact
+>t_3418495 backward
+aacgcgtactgtctggaacaaccctactg
+>t_3952818 forward
+gatgggtccagttctgtatagtcgaatag
+>t_3525976 forward
+gtatcgaccagttccagtgcgtccagata
+>t_3840640 backward
+tcatagtgctacctttaacagtgcagggt
+>t_4785243 forward
+gtaacgaatacgccaggactgtccggtaa
+>t_35808 backward
+ctgctgcgcaggacaggagacgctaataa
+>t_3919943 backward
+agcacccggagtgtaaagctcaccattca
+>t_3175301 backward
+aacctactcactttcatactgagcaatgg
+>t_904584 backward
+aaatgccactcctttggactgagaacgct
+>t_2878462 forward
+agagtgaagagggtatggctttacatact
+>t_4068291 backward
+ctggcgcactgtgcagtggtttgctttac
+>t_2367290 backward
+gaggcagacagtattaccccgtttgtggc
+>t_4497840 backward
+agcttgaacagtgctataccgacagggtg
+>t_2866781 forward
+ggcgcgctcagtgtaggactcaaccccag
+>t_4312820 forward
+aaaatacacaggctaaagcaacgcaggct
+>t_820281 backward
+actttcctcacgtttaccctgtgcgctcc
+>t_3680133 forward
+ttcgttaatggtattacccagcgcggcgg
+>t_4379448 forward
+agcctgcgctgtgcaggacaggcagcaga
+>t_4515778 backward
+tgcaataccagtgctggaccgtcttctta
+>t_4482172 forward
+tgaccactcaggactatagcgagcacatt
+>t_343158 forward
+catacgattaggccagggctgtgttaaaa
+>t_3642652 forward
+attgccggaggtaccacactgcgtaatat
+>t_2362715 forward
+attttgcactggatagtactgcgcgcttt
+>t_2718136 backward
+acattgaccagcttcatactgagaagctg
+>t_4573974 forward
+tcttcggtcggtattgccctggtaaaaca
+>t_2197445 forward
+catcccaccgggattaccctgcccgaact
+>t_789893 backward
+tacgtcaggaggattacaccgcgcggaag
+>t_4382178 backward
+tatccaggcgggtctaccctgcgtgtgat
+>t_3869433 backward
+tttttgaactgccctaagccgcataacac
+>t_4382170 forward
+atcacacgcagggtagacccgcctggata
+>t_4684636 backward
+atatcgagcagctatacacatctctgtgc
+>t_2864914 backward
+ccggacagctgtctaaaggcgtctggttc
+>t_4323248 forward
+ttgatggtcgggattacaccattgaaaac
+>t_3680141 backward
+ccgccgcgctgggtaataccattaacgaa
+>t_2149160 forward
+ctgtcacacgggtataggtgactgacttc
+>t_3642518 backward
+ctgccgcacaggtttatattggtagtgaa
+>t_2197453 backward
+agttcgggcagggtaatcccggtgggatg
+>t_4323256 backward
+gttttcaatggtgtaatcccgaccatcaa
+>t_4312828 backward
+agcctgcgttgctttagcctgtgtatttt
+>t_2942872 forward
+atagcgcacagtaccgaagtcgccatgac
+>t_2362723 backward
+aaagcgcgcagtactatccagtgcaaaat
+>t_820273 forward
+ggagcgcacagggtaaacgtgaggaaagt
+>t_4516338 forward
+ttcagggtgagggcatggctgagtgagtt
+>t_2367282 forward
+gccacaaacggggtaatactgtctgcctc
+>t_792406 forward
+tttgagcgttccccaggcctatgtaaatg
+>t_4683274 forward
+atatcggatactgctgcactggtcgaggc
+>t_4683282 backward
+gcctcgaccagtgcagcagtatccgatat
+>t_2396585 backward
+gtgaagcgcacattaacactgctcgtgca
+>t_3622435 backward
+aacacaggcagcataatacaggtaagact
+>t_2628874 forward
+taccagcgcaggcctggggtctgacggag
+>t_4502066 forward
+ttttcgcatagtctagatgttcataagac
+>t_4428684 forward
+cttttgcactgctggaaggagggcgatta
+>t_3261446 forward
+tttccggatggcctggaactgactgaaca
+>t_4068283 forward
+gtaaagcaaaccactgcacagtgcgccag
+>t_791466 forward
+cgctggtacagtcctggattgatgacggt
+>t_1226291 backward
+ttatcgcaccggataagacagtccatttt
+>t_4391543 forward
+ccagcgcacagcctggtactgaatctata
+>t_2763326 backward
+tttagtcccagtcttaacctttcccagga
+>t_2866789 backward
+ctggggttgagtcctacactgagcgcgcc
+>t_2786475 forward
+agttcatacagatatacacagcataactc
+>t_4497832 forward
+caccctgtcggtatagcactgttcaagct
+>t_4705390 backward
+agtaagtatggtctaaaggtgtgcattcc
+>t_3932612 backward
+gcaccagtccgcattacactgcgcaacgt
+>t_3941218 backward
+cgttcgcgcagattaaaaccgtctgtgtt
+>t_4746505 forward
+acgccggacaggattatccagcctgacgg
+>t_963597 backward
+gcaatgcccacctatacactgctacgcag
+>t_3967712 backward
+gacctctacagccttaaggagcacgaaat
+>t_1595814 backward
+tgacggcaaggggtaatcctgactgaagt
+>t_3622427 forward
+agtcttacctgtattatgctgcctgtgtt
+>t_2628882 backward
+ctccgtcagaccccaggcctgcgctggta
+>t_1502311 forward
+tggctgcacaggcctgcacaacccttgct
+>t_791474 backward
+accgtcatcaatccaggactgtaccagcg
+>t_2396577 forward
+tgcacgagcagtgttaatgtgcgcttcac
+>EC958_3246757 forward
+TTCACGCGCCCTTCCAGACTGGCGTGAGT
+>EC958_441325 forward
+ATTAACCACGGGGCAGGGCTGCGTAAAAA
+>EC958_3936215 backward
+caccgcattggtgtagtaaggagcccccc
+>EC958_378041 backward
+gtttgactcagcgcacaaccatcggccat
+>EC958_5044475 forward
+TTCTCACCCACCCTGACACCGCGCGGGAT
+>EC958_4738758 backward
+acagtcctgcggctacaacagtacgtcgt
+>EC958_198843 forward
+GCCATCGGCTGGCCTATGTCGAGGCTGTC
+>EC958_4016280 backward
+aaacagcgcaatgtagagcagcgcgattg
+>EC958_5009236 backward
+ccatcatgctgctccacaccatgcagcgt
+>EC958_4186934 backward
+aaaccggctactgtaacggttaactgtat
+>EC958_166239 forward
+AACAAAAGCCTGTCCACCCTGTCCAACAT
+>EC958_4990690 forward
+ACCTTTGGCAGTCCTGAACTGGCCGACGG
+>EC958_4022545 backward
+tttgcgttcggtatcgcggatgtgactcg
+>EC958_4023217 forward
+GGACGTACCGAGACTATTCAGTGCCTGTT
+>EC958_4990698 backward
+ccgtcggccagttcaggactgccaaaggt
+>EC958_4095465 forward
+CAGCTGTGTCGGCTTGCCCTGTTCGAAGG
+>EC958_4137936 forward
+GTTCCACGATGCACTATACAGATGCACCG
+>EC958_3757855 forward
+GAACAACGCGGCGTAGCACTGCTCATTGT
+>EC958_4758081 backward
+ctgttagtcagtatagctccatcatcagc
+>EC958_4282089 backward
+caggcaacgcatcaagaacaggtaatcac
+>EC958_4260827 forward
+GTTTTGATCACTTCTGCATACCATCCGAA
+>EC958_4485453 backward
+gaagtagatacccggatacaactcgctta
+>EC958_4222435 backward
+tccttgtacggtatacaccgcaacccatg
+>EC958_183422 backward
+atactgtgcacgccatgacagtcctgtag
+>EC958_92470 backward
+tctttgcgcggtagacgagtgagcggcat
+>EC958_4774066 forward
+CCATTGAGTGGCTCTGGCGCTCGTGCATT
+>EC958_352140 backward
+catcttcattaccgtataccgctgcagtg
+>EC958_198851 backward
+gacagcctcgacataggccagccgatggc
+>EC958_4016582 backward
+gtgtccatcatccctatagcgcggcccaa
+>EC958_4199696 backward
+gaccggtaacgtgccatagcgagcaatca
+>EC958_3565565 forward
+TGAGCCAGCGGTGCTGGCTCTCCCCCATT
+>EC958_4016604 backward
+ccacgacagtgctttatgctgtgtgtcca
+>EC958_3328035 forward
+TGCCAGGGCAGGCTTACACCATAAGCAAG
+>EC958_3636609 forward
+TTTGCGCACTGTATACAGGCGCGAACGAG
+>EC958_4200323 backward
+gcacagttgccacgtgtactggacgaccc
+>EC958_4985989 backward
+ccaagaagggagcataccctgcactagta
+>EC958_4171139 forward
+GTAACCGGCTCATTTAAACCGTCTGGTCT
+>EC958_4200315 forward
+GGGTCGTCCAGTACACGTGGCAACTGTGC
+>EC958_4135059 forward
+ATCTGGAGCAACTGTGGGAAGACGCATAC
+>EC958_3463323 backward
+tttaacggctctcatagacagagaagtta
+>EC958_4137939 forward
+CCACGATGCACTATACAGATGCACCGGAT
+>EC958_183412 backward
+cgccatgacagtcctgtagcatcatcacg
+>EC958_4672239 backward
+tcgtcaccgtatcatacacaccccattgc
+>EC958_3936722 forward
+TCAATGGCAGTTACTGCTCTGTGCCTGAA
+>EC958_4197731 backward
+agcactctttaccctgaacagaccggatg
+>EC958_4298158 forward
+ATAAGGAACGGTACACAGCCGGTCCCCAG
+>EC958_4023210 backward
+gtctcggtacgtccggcaccaacgagtcc
+>EC958_4016574 forward
+TTGGGCCGCGCTATAGGGATGATGGACAC
+>EC958_4642150 backward
+ggcattatggggctggcgtttgtgattaa
+>EC958_4200461 forward
+CGCACGACCAAGGTTAGTCGGGTCGTTGG
+>EC958_4982586 forward
+GGCTTGCGCTAGCCCATACTGTGTTGTTT
+>EC958_4200803 forward
+CTTTTCATCGCTACTGCTCTGGTCGCAAC
+>EC958_4200811 backward
+gttgcgaccagagcagtagcgatgaaaag
+>EC958_2599656 forward
+ATACTGAGCTGGTTAATGCTGTGCACACA
+>EC958_4042700 forward
+ATATCTATGACCTCTACACCGATTACCAC
+>EC958_3959530 forward
+TACCCGCCCAGTGTAGCGCGGTATAACGC
+>EC958_4798813 backward
+cgcgcccactgaactgcactgcccaacat
+>EC958_3936244 backward
+tatttgaccagctcaggtgttacctgact
+>EC958_4505869 backward
+ttcgatgatggtatagggcttatcccaga
+>EC958_423804 backward
+tcgcggaccagtcttgatctacgtcacca
+>EC958_3298016 forward
+GAAACGCACTGCACAGGACTCTGCGGTTT
+>EC958_3617851 backward
+ttgtgggggagtctgtacgtgtcgacaat
+>EC958_3959538 backward
+gcgttataccgcgctacactgggcgggta
+>EC958_4198127 forward
+TTCTTGCCGAGTGTACGAAAACGTCTTCC
+>EC958_3947372 forward
+ATCTTCACAGGTCCAGGAGTTGACCGGTT
+>EC958_4616103 forward
+TGCTTTAGTTGTGTATACTCGATCCCGCC
+>EC958_4171207 forward
+AATGGACACTATCGTATGAAACACCGGAC
+>EC958_4171205 forward
+TTAATGGACACTATCGTATGAAACACCGG
+>EC958_3512401 forward
+TTACCGCGCAGTGTAGGACCAATGCGGGT
+>EC958_3947222 forward
+TTTATCCTGAGTACAAGCCTGAACGATAG
+>EC958_4798803 backward
+gaactgcactgcccaacattgagcgggca
+>EC958_4137947 backward
+atccggtgcatctgtatagtgcatcgtgg
+>EC958_4022688 backward
+tgtgcgagcagcttctgacagcgtagcgt
+>EC958_3587261 forward
+TCATTGCATGGTCTACGGGCGTTGATGCC
+>EC958_4170335 forward
+AAGGCACCAGCCTGTATACCGTCTGACTG
+>EC958_5009625 backward
+cttcgccacggtacaccaaagacgtatcg
+>EC958_4023202 forward
+GGACTCGTTGGTGCCGGACGTACCGAGAC
+>EC958_3617732 forward
+CGACAGCGCAGTGTAAGGTGCACCGCTTA
+>EC958_5009579 backward
+ttcccgtgcagcactgaaccagttaaaag
+>EC958_4222822 forward
+TTACATGCCAGTCTACAACAACGCTGGAG
+>EC958_3764423 backward
+ggttcggctacaccagcacagggcactgt
+>EC958_4506098 backward
+ccaacgcgcgacgcacatctgtgcctccc
+>EC958_4137944 backward
+cggtgcatctgtatagtgcatcgtggaac
+>EC958_2546799 forward
+TGACCGCACGGTATAAGGATGCACTACCA
+>EC958_4616111 backward
+ggcgggatcgagtatacacaactaaagca
+>EC958_183697 backward
+ctgtatcccattcctatactgcgttcggc
+>EC958_3483696 backward
+gttgtggacggactaacagtgcacgatag
+>EC958_4199977 backward
+atcagcagcgttcccagccagtccggcaa
+>EC958_3617809 backward
+gatatacacactctacgacaccgcaagtc
+>EC958_4462803 backward
+gctgcggatgggtataaaccgtcgcccga
+>EC958_3914604 forward
+TTAGTGAATGGACGGATACTGCTCGACCG
+>EC958_5011201 backward
+ttgctggtcagtctaatgccatggcgtat
+>EC958_5019969 backward
+gcgagtcgcacctaaggccactcccgctt
+>EC958_4505861 forward
+TCTGGGATAAGCCCTATACCATCATCGAA
+>EC958_4985981 forward
+TACTAGTGCAGGGTATGCTCCCTTCTTGG
+>EC958_3587269 backward
+ggcatcaacgcccgtagaccatgcaatga
+>EC958_4172231 backward
+caagtgaggtgtccatatcctcactttac
+>EC958_3617740 backward
+taagcggtgcaccttacactgcgctgtcg
+>EC958_4200465 backward
+cgacccgactaaccttggtcgtgcgcttt
+>EC958_4200469 backward
+ccaacgacccgactaaccttggtcgtgcg
+>ENC_1735479 backward
+ggttcatacactacatacccacctgtgta
+>ENC_256708 forward
+cttcgcaacggccctggggtttgtgctcg
+>ENC_3354041 backward
+ttgttgctcagtactaaggtgctgttgtt
+>ENC_284255 backward
+ctcccgggcagggtatacccttcgcaaaa
+>ENC_3354065 backward
+ttgttgctcagtactaaggtgctgttgtt
+>ENC_3300743 forward
+gttttccgccagccagaacggcgcaacag
+>ENC_576202 backward
+ctgggttgttgccatgatctgtgcaatgt
+>ENC_2259140 forward
+agttgcatcggcgtcagcccgtcccggct
+>ENC_3900921 forward
+cactcgctctcctttatcctgtcggtgct
+>ENC_2134620 forward
+cgttgcatcacctccgaaccactcccact
+>ENC_522219 backward
+aaagaaataaccactgcactgtctgccat
+>ENC_1762579 forward
+ctcacgaagggttctgtactcatccaatc
+>ENC_3643654 backward
+agcaggagcagcttctacctcagtgaggt
+>ENC_3354089 backward
+ttgttgctcagtactaaggtgatgttgtt
+>ENC_4487613 backward
+cggacggtcggttttagggtctctgaact
+>ENC_335209 forward
+gatgcgctaacatctattcttccctgcgc
+>ENC_3354113 backward
+ttgttgctcagtactaaggtgctgttgtt
+>ENC_3353940 forward
+aacaacaacaccttagtactgagcaacaa
+>ENC_3586819 forward
+aaaggggccagggttacccggggagacgc
+>ENC_3576650 forward
+cgtagtcgctccttaagcccacccagtgt
+>ENC_3354137 backward
+ttgttgctcagtactaaggtgctgttgtt
+>ENC_3862639 backward
+acggtgctaagtatggtgctgttcgcctt
+>ENC_2164595 backward
+aatcgcatcacccgtaaactgcgccaccc
+>ENC_2643026 forward
+atcgaggccactgtgtgagtgtgcgcttc
+>ENC_4464947 backward
+cgctcacggactgtaatgccgcccacagc
+>ENC_2655398 backward
+gatgccgattatctttatgaactgctgga
+>ENC_3353948 backward
+ttgttgctcagtactaaggtgttgttgtt
+>ENC_576094 backward
+caacggcggtctctatgccagcctgatga
+>ENC_3353892 forward
+aacagcagtaccttagtactgagcaacaa
+>ENC_3353900 backward
+ttgttgctcagtactaaggtactgctgtt
+>ENC_300303 backward
+gtcaggggcaggattatactcagcacgac
+>ENC_3354161 backward
+atgttgctcagcactagggtgctgttgtt
+>ENC_786193 backward
+attttactctgtctaagacccacatttcc
+>ENC_318094 forward
+ataccatacagggtatgactcactgaaat
+>ENC_576429 backward
+atcccgggcgggatgatgctggtcccgct
+>ENC_3274871 backward
+ctggaagcctacccggaactggtcgcgct
+>ENC_4500312 backward
+acgctgtgctggttaaggctgtgaaagag
+>ENC_3321611 backward
+gtttgcagcagtaccagactcatccccat
+>ENC_3290574 backward
+gggtctcacaccctcacccggcccttttt
+>ENC_4083185 backward
+ttatcgagcgccttaacaccggggaatga
+>ENC_3782965 forward
+gcgtcacgctatgttcatgtgggcaccgc
+>ENC_3412089 backward
+aggtgctgctgtcctacgctgagtcgatc
+>ENC_4889931 forward
+atcttttacgcgtcgtatctgctcaaaaa
+>ENC_4499685 forward
+tgctgcaacacccccataccgctaaccac
+>ENC_334387 backward
+tcgctggtctggttaaaggtgcacaactg
+>ENC_597339 forward
+actttaagcacttcagggccgcctggttt
+>ENC_2439441 backward
+tcacgtcagagtgtatgaccacgacgtgt
+>ENC_3673151 backward
+tttcagcactgtctataactggcgtttgc
+>ENC_3363429 backward
+cttcagcacttgctcacactgctcaatgg
+>ENC_1722999 forward
+cagatagtcatctttaccctgctcgaccg
+>ENC_4500304 forward
+ctctttcacagccttaaccagcacagcgt
+>ENC_2741448 backward
+gtcgcgcgtggtgttggtgttaacgaaaa
+>ENC_4476627 forward
+acgttacactaatctaagctctggcgcgc
+>ENC_1722916 forward
+aatgaacgcagccctggggtgttaggcga
+>ENC_4524631 backward
+tggtgaagcggttttagacatcgtgcaaa
+>ENC_340070 forward
+ggggcttgcgcccctggatcgatcaggcc
+>ENC_3416759 forward
+tttccggatggcctggagctgattgagca
+>ENC_4487707 backward
+tgagtactaacacccgaccagagcgacca
+>ENC_1735457 forward
+gccctaaccttccatacacaggtgggtat
+>ENC_256091 backward
+attttgctggcgtccagactgctcgacaa
+>ENC_4460737 backward
+gcgtagcgttatgctgcaccgtcctaatt
+>ENC_4460742 backward
+caattgcgtagcgttatgctgcaccgtcc
+>ENC_302302 forward
+taaatgacaagtgtacgtgtgcgcgcaat
+>ENC_2643036 backward
+gcgaagcgcacactcacacagtggcctcg
+>ENC_2643034 backward
+gaagcgcacactcacacagtggcctcgat
+>ENC_1735471 forward
+tacacaggtgggtatgtagtgtatgaacc
+>ENC_3351879 backward
+ttgctgatcagcctaagactgtagcgttg
+>ENC_4495317 forward
+gtaaaggtcagttctactgcggcctcatc
+>ENC_2165924 forward
+aactccaccacatctaacctgcgttcacc
+>ENC_4570048 forward
+tcaatgagcgctgtagggctgaagcatct
+>ENC_117907 forward
+ccgggtttcgggtctataccctgcaactt
+>ENC_539586 backward
+ctgtaacgcaggctaacctcttcgggcgg
+>ENC_1101474 forward
+accctgggctgaataaccctgtgcgagct
+>ENC_4525185 forward
+ttcgtccggagcgtaatagtgtctgcgcc
+>ENC_2437024 forward
+caggtttgctccccagttctggtcaacgt
+>ENC_4465245 forward
+attcagcacactacataagggtgtaattc
+>ENC_4465247 forward
+tcagcacactacataagggtgtaattctg
+>ENC_1735605 forward
+tacagtcacaggtctagccagccctttaa
+>ENC_1534773 backward
+aacgtcaccagttcaggacgggcgatacg
+>ENC_597347 backward
+aaaccaggcggccctgaagtgcttaaagt
+>ENC_539565 backward
+tcgggcggaacgcgtgttccgcccggctt
+>ENC_3143223 backward
+ccaccgcagagtcctgtaccggcggcaat
+>ENC_2453961 backward
+ttgagctacagaccaggactcagtgtagt
+>ENC_282496 forward
+taaatacgctattcacggcagcggaagtg
+>ENC_3166168 backward
+ggctcgttctgctccagatagagtttaaa
+>ENC_309991 forward
+ctggtcaacaggtcaacactgtgtataga
+>ENC_4525387 forward
+aagaggcgcaggtcagcggtagccccgtg
+>ENC_256740 backward
+cctgccacaagccataccctgtggcgagc
+>ENC_282532 forward
+tcgccagtctgttcaggagcgcacgcaga
+>ENC_3596121 forward
+aggctggacagctccgtactgcttgcgga
+>ENC_281975 backward
+ggtgttcagagcccagggcttttacatgg
+>ENC_2741839 forward
+attccctcccccttaagactgaacattac
+>ENC_3261529 forward
+gttgcggactggttacaggtagcctcctg
+>ENC_3567685 forward
+ccccgctataccccatacctgtacataac
+>ENC_4494142 forward
+taaacgcactgctaagaccatgttggcta
+>ENC_2721420 backward
+aatcgccgcggtacaggaggtagtaacct
+>ENC_4494108 forward
+taatcgagcaggttaatggtttcctgtgc
+>ENC_3643998 forward
+tcttcattaagggctaaggagcggtttgc
+>ENC_523597 backward
+ttccgacacggctctaagctgggcaaacc
+>ENC_3650268 forward
+tgcctgcgcatcctcgttctggtcaagta
+>ROD_4378341 backward
+taacgcaggagtcatagcctgtccttgtg
+>ROD_4381179 forward
+tgacggcgctactggataccatgcgtgct
+>ROD_1937301 backward
+aaaaagaacagtatagccctggcattatc
+>ROD_4565972 forward
+gatagcgtaacctttatgccggatggcgg
+>ROD_1800348 backward
+aagcgaagtgctgtaggcctgataagcga
+>ROD_4900494 forward
+aaacagcgtggtgttacgctgttggaaat
+>ROD_4352460 forward
+gtttggctttacccaggacagtacctgcg
+>ROD_2161490 backward
+taggagtgcggccctgacccgtccaagtc
+>ROD_1431332 backward
+gaaagcatcattcatactctggccggtag
+>ROD_1591063 backward
+ttactttgcaggataacaccgctatcgat
+>ROD_4509466 forward
+aatgcgatcggtattaacccaccagacgc
+>ROD_1265788 backward
+ttatagatcacggcagtaccgtgcagggt
+>ROD_430879 backward
+ggatggcgctgtgcttatccggcctacga
+>ROD_3091641 forward
+ttctctcgctcccttgagcaggggatgag
+>ROD_4916210 forward
+cttctgctaagtatcggatagagaggtga
+>ROD_3717993 backward
+ctttgagccacacctactccttccggtca
+>ROD_3634977 forward
+ttaatccgctgtcctggagtgaggtgatg
+>ROD_1811886 forward
+tcgctgctgtcacccgaactgagcgcatc
+>ROD_5064567 forward
+ctgctcctctcatttggggttgcctctgt
+>ROD_1095977 forward
+tttggcgacagcgttggactgtttggcga
+>ROD_4417118 backward
+agtctgcacaggtcacacattcagcatgt
+>ROD_4283300 backward
+ctcaaggaaagtgtagacccatacgccga
+>ROD_4952683 backward
+cagaagaacacgccataactgtgcggccg
+>ROD_3740864 backward
+tggtcgcgctggtgtggcccgactatcag
+>ROD_4043734 forward
+tcggcggacgcctgtagctttactccgct
+>ROD_4595846 forward
+gaattggtatgtgttggatagggtgcttt
+>ROD_3728313 forward
+ctttggcagacaccagagctgttgataga
+>ROD_4362080 backward
+cttatagacaagtctgtgctgcggaacgt
+>ROD_1756538 backward
+tcatagaacacccttacattgcgcaaaat
+>ROD_3822515 forward
+aattgcgactccattacagagctacgttg
+>ROD_4382920 backward
+caaggccccagccccataccgatccatct
+>ROD_5308170 forward
+taaaggcgcggtactgctgttcctgaaat
+>ROD_468828 backward
+gaggttagcagaccagtcctgatcaacat
+>ROD_2772876 backward
+cactggagctgtatagacccaatgttagc
+>ROD_4992702 backward
+ttcccggacggactggagctggttgaaca
+>ROD_4430295 backward
+gatagacgcccatccataccacgtgcgtc
+>ROD_4283196 backward
+accacgcacagggtaacatcacccaaaaa
+>ROD_4015434 backward
+tatttagacgctatagaggtacctgctgt
+>ROD_1756530 forward
+attttgcgcaatgtaagggtgttctatga
+>ROD_1674880 forward
+gtattgccctgtatggcaccggcaaactg
+>ROD_281803 forward
+aaccggaacgggtaaagagtgtgtggcta
+>ROD_4908831 backward
+atgacgctcagttctgagttaggcaccat
+>ROD_1479542 backward
+tgttcgccatcccttatcccaggcatcag
+>ROD_3362539 forward
+gaacgggccacctttaatgtagccaacgc
+>ROD_4060078 forward
+gccacgcacaggttaatagaataacgttt
+>ROD_3796910 backward
+ttactggacagcgcaatggtgggtggatc
+>ROD_430868 backward
+tgcttatccggcctacgacactgcgggat
+>ROD_3693449 backward
+gtgtcgctcagttcatatccgcgagaggg
+>ROD_3612881 forward
+acgccgcactgcccttatctccgctgccg
+>ROD_2122489 backward
+gtaccggatggctttataccatccggcca
+>ROD_4328010 backward
+catgtgatgagtggatgtctgagcacatc
+>ROD_4042999 backward
+ctgtcgctatgagttatactacggccaga
+>ROD_4901098 backward
+cgttaacagagccctgaccatcgcagaca
+>ROD_1674107 backward
+aaacggcgcgctccagacgtgcaccagcc
+>ROD_4417342 backward
+ctgcccctcaacctgagacagcccttcca
+>ROD_3892329 forward
+tcttactgctgctgtataccgttccggaa
+>ROD_1431380 backward
+cgggagcggtgcttaagaccattcacccg
+>ROD_1332272 forward
+cggttctgctgcgctactctgagcgctgc
+>ROD_4481788 forward
+tgcatgaacaccataagggtagcctctta
+>ROD_4740340 backward
+agttggaccagtataaggttcaaaagaga
+>ROD_2843040 backward
+tgtatgcacagcattaacgcgctcagtaa
+>ROD_3635013 forward
+atccctcgctggcctggggagtgtatgac
+>ROD_396849 backward
+tgaatgcagagtactgatgcttgtgaaaa
+>ROD_4589360 forward
+gaagccagcaggttaagactgctttcgta
+>ROD_4798954 forward
+agcctgagagggtttaccgagtccatatt
+>ROD_4334682 backward
+ctcttgtgctgttctgtatagattcaaga
+>ROD_4283188 forward
+tttttgggtgatgttaccctgtgcgtggt
+>ROD_5062979 forward
+atatcgcaccgtatggagctggctgaaaa
+>ROD_4798945 forward
+cagttgaccagcctgagagggtttaccga
+>ROD_1675201 forward
+aagggattcgcacgtataccgacctggag
+>ROD_3587300 forward
+gaccgggccgggtttattctgttctgaat
+>ROD_3634719 backward
+ctggcgaacagggttgcccctgatactgc
+>ROD_4595903 forward
+tgttccaacagtcgtgaaccgtttagtgg
+>ROD_4331269 backward
+attcttcacacctctgtccatgccctcac
+>ROD_823837 backward
+agactccacagatccatactgcgtgtaga
+>ROD_395222 forward
+tggtcactcccacctggagtggtcggcgt
+>ROD_3241201 forward
+gggcggcgctgccttatccggcccgggaa
+>ROD_4733331 forward
+tttttgcatggggctgacttgtgctgcgt
+>ROD_4481691 forward
+aggcgcgggtgcttgagactgtgtgtctc
+>ROD_4422375 backward
+tgcccacccaccataatacagcgcggccc
+>ROD_235979 backward
+tactgttacagtcctggcctgagataaat
+>ROD_1417901 backward
+gactcggactgctgtagcccgcttcaaaa
+>ROD_4417128 backward
+gccagatggtagtctgcacaggtcacaca
+>ROD_4016091 forward
+cgcgaaggcagtatagagctacgtggttt
+>ROD_3323608 backward
+cagcgcgtcaggggtataccgttcagcga
+>ROD_4594438 backward
+tatcggggcaggtatagtctgtcgcacct
+>ROD_3693441 forward
+ccctctcgcggatatgaactgagcgacac
+>ROD_4283270 forward
+tttttacgcactgccggggcgttcggcgt
+>ROD_2151942 forward
+acaatgcccacctatacactgctacgcag
+>ROD_4952675 forward
+cggccgcacagttatggcgtgttcttctg
+>ROD_3240485 backward
+atttcacccgcctcagcactgttatcaac
+>ROD_3728148 forward
+ccccatcccaggccggagcagcgcagtta
+>ROD_5314700 backward
+cgggccctcactcctggcctgcgcggaaa
+>ROD_5314692 forward
+tttccgcgcaggccaggagtgagggcccg
+>ROD_684188 forward
+aggctggacagtccagggcagggcttgtt
+>ROD_4283292 forward
+tcggcgtatgggtctacactttccttgag
+>ROD_4085904 forward
+tggcaacatcgtcctgggcaggactcact
+>ROD_3597843 backward
+atgcggtacagatagacacagcgcctgat
+>ROD_4350756 backward
+gccgtcaccaccgcagtactgagcgcaat
+>ROD_1733920 forward
+tttttaacgaccttaaccctgcgtccact
+>BW25113_1084222 backward
+gtgatgggctggtcaaagaggtctggttt
+>BW25113_3719527 backward
+aaacagcgcaatgtagagcagtgcgattg
+>BW25113_3774389 forward
+CGTTTGCGCCCCCTCACCCTAACCCTCTC
+>BW25113_4231537 forward
+GTATACAGCAGCATTAAGAACAGCAGTGC
+>BW25113_3658295 forward
+ACGGCAGACTATCCTCTTCCCGGTCCCCT
+>BW25113_3481566 forward
+TATTACCGCAGTGTATACCCTGCAACTAT
+>BW25113_833553 forward
+TTATGAACTTGTTTTATACCGCGTGGCAG
+>BW25113_2357808 backward
+gtgccaggcagtacaatcccgcagctttg
+>BW25113_3658441 backward
+ggagcgatcggcgcagagattgtcgaacc
+>BW25113_4327078 forward
+ACGACGTACTGTTGTAGCCGCAGGACTGT
+>BW25113_4327086 backward
+acagtcctgcggctacaacagtacgtcgt
+>BW25113_3719861 forward
+CACTGTCGTGGGTGAGCGCCGCGCTGTTT
+>BW25113_870545 forward
+AATCCAGACAGCATAAAGGTGGACTCGCA
+>BW25113_3647848 backward
+tcaccgcattggtgtagtaaggcgcaccc
+>BW25113_3647868 forward
+AGTCAGGTAACACCTGAGCTGGTCAAATA
+>BW25113_730850 backward
+tacccacttcctgcaatacagtgtgtagt
+>BW25113_3462858 forward
+ACAGTGCCCTGTGCTGGTGTAGCCGAACC
+>BW25113_59068 forward
+ACCCCGGACGGTGCTACCCCGGACGGTGC
+>BW25113_4534234 forward
+AAGCGGGAGTGGCCTTAGGTGCGACTCGC
+>BW25113_3650052 backward
+tcttctgccagttgtgagcaatgcagcgg
+>BW25113_3314272 forward
+ATTGTCGACACGTACAGACTCCCCCACAA
+>BW25113_3648376 backward
+gacacagccgcttcaggcacagagcagta
+>BW25113_3278304 forward
+TCATTGCATGGTCTACGGGCGTTGATGCC
+>BW25113_3314230 forward
+AACTTGCGGTGTCGTAGAGCGTGTATATC
+>BW25113_3256868 backward
+aatgggggagagccagcaccgctggctca
+>BW25113_3629045 backward
+acaggtacgtctccataccagtgccagta
+>BW25113_298517 forward
+GTGATTTTCAGCTCTACATCACCCTGCAA
+>BW25113_3184965 forward
+TCACCGCACCATTCAGGGCAGAACTGAGT
+>BW25113_4527306 forward
+GGATGAGGCGCATCTTCCCTGTCCGGTAA
+>BW25113_4515056 backward
+tcggggatgggccatagacaacgaagaat
+>BW25113_3647847 backward
+caccgcattggtgtagtaaggcgcacccc
+>BW25113_2778655 backward
+tttgtgagcgttacaggagcgtggctatg
+>BW25113_4535832 forward
+ATTGCTCGTGGTACTGCACAGGTCACTAT
+>BW25113_59098 forward
+AACCCGGACGGTGCTAACCTGGACGGTGC
+>BW25113_3199290 backward
+tttgggcgcagccatattgcgccagctat
+>BW25113_3895713 backward
+agcttcggatggtatgcagaggtgatcaa
+>BW25113_4057008 forward
+TTTGCTCGCGGTGGTACGGTTCGACGTTG
+>BW25113_3647839 forward
+GGGGTGCGCCTTACTACACCAATGCGGTG
+>BW25113_3895710 backward
+ttcggatggtatgcagaggtgatcaagac
+>BW25113_3658680 forward
+CTCGCTGGCGATTCGGGCTAGTGTCCACT
+>BW25113_177090 backward
+gacagcctcgacataggccagccgatggc
+>BW25113_3278312 backward
+ggcatcaacgcccgtagaccatgcaatga
+>BW25113_4056401 backward
+ttttcagacagtattggttaatgatgccg
+>BW25113_3726969 forward
+GAAGTGCTCGGCCTTAGCGATCGTGTACT
+>BW25113_4511846 forward
+ATAACGTCCTCTCATAACAGGGTAGCGAC
+>BW25113_3760877 forward
+TGCCGGGTCAGCAGTATGATGAGGAGTCC
+>BW25113_3800832 forward
+AGGGCCCACAGGTTAGCACAACCTGATAG
+>BW25113_314774 backward
+tacgtgatgagttactgggtgaaggcaaa
+>BW25113_481818 forward
+TTACTGGAGATGTATCTCCTGTGCCCCAC
+>BW25113_1337529 backward
+ctttggcaatgtctctgagtgcctgttct
+>BW25113_4103358 forward
+TAAGCGAGTTGTATCCGGGTATCTACTTC
+>BW25113_3649996 backward
+aaccggtcaactcctggacctgtgaagat
+>BW25113_3833276 backward
+gttgcgaccagagtagcagcgatgcaaaa
+>BW25113_3629037 forward
+TACTGGCACTGGTATGGAGACGTACCTGT
+>BW25113_59113 forward
+AACCTGGACGGTGCTACCGTGAACGGTGC
+>BW25113_3895307 forward
+TTTTTGACCAGTACAGCATCAGGTTTTGC
+>BW25113_4536021 forward
+CTTTTGCAACGTGAAGGGCATACTCGTTA
+>BW25113_3833268 forward
+TTTTGCATCGCTGCTACTCTGGTCGCAAC
+>BW25113_3649169 forward
+TGTGTGCGTAACCCTGCTCCTTTGCCGCG
+>BW25113_2399710 backward
+ttaaacgtaatgcctatatggcagaaatg
+>BW25113_3448359 backward
+ttttgctgatcggcagacccgatcgaaaa
+>BW25113_4511845 forward
+CATAACGTCCTCTCATAACAGGGTAGCGA
+>BW25113_2461927 forward
+ATTGTTTGCAGGGTTAGACCATGCAACCG
+>BW25113_4327227 forward
+CTTGGGCTAAGACATAAACAACTGGCTAC
+>BW25113_149484 backward
+atgttggacagggtggacaagcatttgtt
+>BW25113_3314280 backward
+ttgtgggggagtctgtacgtgtcgacaat
+>BW25113_3662147 forward
+TACCCGCCCAGTGTAGCGCGGTATAACGC
+>BW25113_389830 forward
+TGGTGACGTAGATCAAGACTGGTCCGCGA
+>BW25113_3737274 forward
+ACGCGAAGCGGTGGTAAACCGTCCGGAAG
+>BW25113_4526141 backward
+tcgcagcaccgtcctgatatgccgttctg
+>BW25113_3648365 backward
+ttcaggcacagagcagtaactgccattga
+>BW25113_3719829 backward
+gtgtccatcatccctatagcgcggcccaa
+>BW25113_59076 backward
+gcaccgtccggggtagcaccgtccggggt
+>BW25113_4527350 forward
+ATACGCCATGGCATTAGACTGACCAGCAA
+>BW25113_3894203 forward
+AAATAGCCCAGTTCAACACCTGTCTGGTT
+>BW25113_3800840 backward
+ctatcaggttgtgctaacctgtgggccct
+>BW25113_4231535 backward
+tcttaatgctgctgtataccgtgccagaa
+>BW25113_4593696 forward
+TATCAGCGCCATGCTGACCTCCCCGGCAA
+>BW25113_3657727 backward
+taattaaccagtcaccccccatgccgctg
+>BW25113_298525 backward
+ttgcagggtgatgtagagctgaaaatcac
+>BW25113_288694 backward
+tgtacggtctgctatagaccgtaggacca
+>BW25113_3355855 backward
+gggtggatcagtacaggtagatcctgacg
+>BW25113_4056393 forward
+CGGCATCATTAACCAATACTGTCTGAAAA
+>BW25113_3629038 forward
+ACTGGCACTGGTATGGAGACGTACCTGTT
+>BW25113_59091 backward
+gcaccgtccgggttagcaccgtccggggt
+>BW25113_3786698 backward
+ctggtcaccagagtatgttttggtatgta
+>BW25113_3184773 forward
+ATCCGGGTGCGGCCTGTACTGAGCAGTTT
+>BW25113_3881878 forward
+GATTTGCCCTTCTGTAGCCATCACCAGAG
+>BW25113_4535828 backward
+gcagtaccacgagcaataccgtggatcac
+>BW25113_3649995 backward
+accggtcaactcctggacctgtgaagatt
+>BW25113_3314169 backward
+taagcggcgcaccttacactgcgctgtcg
+>BW25113_2161511 forward
+ACACCATGTAATCCTACACCTTCTGTCTT
+>BW25113_4488002 backward
+cagggggccagtctacaagggaccatcaa
+>BW25113_148072 backward
+atcccactcaacgtaagctgatgaagaga
+>BW25113_177082 forward
+GCCATCGGCTGGCCTATGTCGAGGCTGTC
+>BW25113_4528419 forward
+CTGTGTATCCAGCTTGTACCATGCCGTAC
+>BW25113_3883551 backward
+tgaggatgtagggtaagagagtggctaac
+>BW25113_4231527 forward
+TTCTGGCACGGTATACAGCAGCATTAAGA
+>BW25113_4594102 backward
+actcctgactggtataggtatggagctta
+>BW25113_1087305 backward
+atgctggtcactatgatactgcgctggtt
+>NCTC13441_4189624 backward
+cttttaactggttcagtgctgcacgggaa
+>NCTC13441_4441633 forward
+gtaaagatcagtactgggataccgctgat
+>NCTC13441_209120 backward
+ccgctgcattgctcactactggcagaaga
+>NCTC13441_21469 forward
+gccatgatcgacgtatgcgtcttcccaca
+>NCTC13441_133346 backward
+ggactcgttggtgccggacgtaccgagac
+>NCTC13441_4972087 forward
+ctccagcgttgttgtagactggcatgtaa
+>NCTC13441_3670485 backward
+ccaatgaaacgttctataccgctctgggt
+>NCTC13441_4531954 forward
+gcagtttgttgccttaaactgtgcaggct
+>NCTC13441_219796 forward
+tgcgcgagagggacacatccgcttcaggc
+>NCTC13441_4972095 backward
+ttacatgccagtctacaacaacgctggag
+>NCTC13441_133870 forward
+gcttctgacagcgtagcgtcatcaggtca
+>NCTC13441_4427642 backward
+taaaggtatggctctgactaccctggaaa
+>NCTC13441_4421242 backward
+aggtcattcaggcttacatcgagagtgga
+>NCTC13441_4368087 forward
+ttgccgcactggataaggggatcacgtac
+>NCTC13441_4935136 forward
+gataaagccaccttaatggtgagcggtcg
+>NCTC13441_209168 forward
+aaccggtcaactcctggacctgtgaagat
+>NCTC13441_209112 forward
+tcttctgccagtagtgagcaatgcagcgg
+>NCTC13441_4396118 backward
+tgcccgctcaatgttgggcagtgcagttc
+>NCTC13441_133338 forward
+gtctcggtacgtccggcaccaacgagtcc
+>NCTC13441_4934080 forward
+gcttcggatggtatgcagaagtgatcaaa
+>NCTC13441_392133 backward
+acagtgccctgtgctggtgtagccgaacc
+>NCTC13441_4481799 forward
+gacctgataagtgtagcccatcaggcaat
+>NCTC13441_5023702 forward
+gtccggtgtttcatacgatagtgtccatt
+>NCTC13441_139695 backward
+gcattgattatccatgcactgcgcacccg
+>NCTC13441_4709904 backward
+gataaatgcagtactaaaggatgtgcgat
+>NCTC13441_241944 backward
+ttagtgaatggacggatactgctcgaccg
+>NCTC13441_139772 backward
+aaaacacgctgtatacgcgtaccatttgc
+>NCTC13441_17222 backward
+gcttgaatgggagctggactgcacagcca
+>NCTC13441_3650637 forward
+tttttacgcagccctgccccgtggttaat
+>NCTC13441_21481 forward
+gtatgcgtcttcccacagttgctccagat
+>NCTC13441_794777 backward
+gttatagtctgttctacactaaagggggc
+>NCTC13441_1093257 forward
+aggcgcagcacgttaagactctccggccc
+>NCTC13441_4972490 backward
+catgggttgcggtgtataccgtacaagga
+>NCTC13441_4273784 backward
+gatatgtatggcccagtaccgggtgatac
+>NCTC13441_18624 forward
+tcgtggaaccgctgtacccaagactccat
+>NCTC13441_4186934 backward
+ctgtgtatccagcttgtaccatgccgtac
+>NCTC13441_139952 backward
+tggacacacagcataaagcactgtcgtgg
+>NCTC13441_4216601 forward
+aaacaacacagtatgggctagcgcaagcc
+>NCTC13441_139687 forward
+cgggtgcgcagtgcatggataatcaatgc
+>NCTC13441_4396108 backward
+atgttgggcagtgcagttcagtgggcgcg
+>NCTC13441_458580 forward
+actgggcatcccactagaccctctggaaa
+>NCTC13441_144374 backward
+atggtgttcaggcatagggtagcctcact
+>NCTC13441_209995 backward
+tgtgtgcgtaaccctgctcctttgccgcg
+>NCTC13441_139966 forward
+gtgtccatcatccctatagcgcggcccaa
+>NCTC13441_144389 backward
+taagaggctaaccttatggtgttcaggca
+>NCTC13441_139974 backward
+ttgggccgcgctatagggatgatggacac
+>NCTC13441_4201211 forward
+tcggggatgggccatagacaacgaagaat
+>NCTC13441_819436 backward
+ccgtgggcatgtcctgggcaatgaccaat
+>NCTC13441_747136 backward
+taaagaacctatgctgacccgctcgaaaa
+>NCTC13441_31921 forward
+gtattgctcatacctatattgctcgtgaa
+>NCTC13441_362143 backward
+ggtaggcgcagtactggctacgttaactg
+>NCTC13441_4177628 forward
+atagtgacctgtgcagtaccacgagcaat
+>NCTC13441_457118 forward
+gatccacgtcactatatgcagcccgcaaa
+>NCTC13441_140276 backward
+caatcgcgctgctctacattgcgctgttt
+>NCTC13441_4578800 forward
+ggcgggatcgagtatacacaactaaagca
+>NCTC13441_4994456 backward
+cgcacgaccaaggttagtcgggtcgttgg
+>NCTC13441_538808 forward
+taagcggtgcaccttacactgcgctgtcg
+>NCTC13441_4689042 forward
+ttcgatgatggtatagggcttatcccaga
+>NCTC13441_4689050 backward
+tctgggataagccctataccatcatcgaa
+>NCTC13441_4187994 forward
+ttgctggtcagtctaatgccatggcgtat
+>NCTC13441_209176 backward
+atcttcacaggtccaggagttgaccggtt
+>NCTC13441_18601 forward
+atccggtgcatctgtatagtgcatcgtgg
+>NCTC13441_18604 forward
+cggtgcatctgtatagtgcatcgtggaac
+>NCTC13441_4994594 forward
+gcacagttgccacgtgtactggacgaccc
+>NCTC13441_241936 forward
+cggtcgagcagtatccgtccattcactaa
+>NCTC13441_674295 backward
+ctatcgtgcactgttagtccgtccacaac
+>NCTC13441_4994448 forward
+ccaacgacccgactaaccttggtcgtgcg
+>NCTC13441_18622 backward
+gggtacagcggttccacgatgcactatac
+>NCTC13441_569279 forward
+ggcatcaacgcccgtagaccatgcaatga
+>NCTC13441_4995017 backward
+attttaagctgtgcagaaccattaagtag
+>NCTC13441_197961 forward
+tatcgtagctttcctgcacagtctgaacg
+>NCTC13441_405590 forward
+atgtcaggtagccctggatggagagttac
+>NCTC13441_219807 forward
+gacacatccgcttcaggcacagagcagta
+>NCTC13441_4732116 backward
+tcgggcgacggtttatacccatccgcagc
+>NCTC13441_590975 forward
+aatgggggagagccagcaccgctggctca
+>NCTC13441_4010385 backward
+ccggcgggtactcctgaagaggtctcaca
+>NCTC13441_5024574 forward
+cagtcagacggtatacaggctggtgcctt
+>NCTC13441_569287 backward
+tcattgcatggtctacgggcgttgatgcc
+>NCTC13441_219818 forward
+ttcaggcacagagcagtaactgccattga
+>NCTC13441_18612 backward
+gttccacgatgcactatacagatgcaccg
+>NCTC13441_18609 backward
+ccacgatgcactatacagatgcaccggat
+>NCTC13441_209318 forward
+ctatcgttcaggcttgtactcaggataaa
+>NCTC13441_4994106 forward
+gttgcgaccagagcagtagcgatgaaaag
+>NCTC13441_3668174 backward
+tggtgacgtagatcaagactggtccgcga
+>NCTC13441_4436840 backward
+gctgatgatggagctatactgactaacag
+>NCTC13441_793942 forward
+aaaccgcagagtcctgtgcagtgcgtttc
+>NCTC13441_4994114 backward
+cttttcatcgctactgctctggtcgcaac
+>NCTC13441_220312 backward
+agtcaggtaacacctgagctggtcaaata
+>NCTC13441_538816 backward
+cgacagcgcagtgtaaggtgcaccgctta
+>NCTC13441_197018 backward
+tacccgcccagtgtagcgcggtataacgc
+>NCTC13441_113840 forward
+gtggtaatcggtgtagaggtcatagatat
+>NCTC13441_3905739 backward
+gccgaacgcagtataggaatgggatacag
+>NCTC13441_4934082 forward
+ttcggatggtatgcagaagtgatcaaaac
+>NCTC13441_3923181 forward
+atgttggacagggtggacaggcttttgtt
+>NCTC13441_4208497 forward
+ccgtcggccagttcaggactgccaaaggt
+>NCTC13441_4177636 backward
+attgctcgtggtactgcacaggtcactat
+>NCTC13441_4188002 backward
+atacgccatggcattagactgaccagcaa
+>NCTC13441_1545154 forward
+tggtagtgcatccttataccgtgcggtca
+>NCTC13441_197010 forward
+gcgttataccgcgctacactgggcgggta
+>NCTC13441_4208505 backward
+acctttggcagtcctgaactggccgacgg
+>STM_3692152 forward
+gagggtatctgtgctgaggctgtctcacc
+>STM_3801390 backward
+cactggtgctggcgttgattgctcaaaac
+>STM_324228 forward
+tcaataaagggggtagagcatgtaccgta
+>STM_4282999 forward
+aacacaggcagcataatacaggtaagact
+>STM_3884289 backward
+ccgccgctgctgttagtattgtgcctaat
+>STM_4200521 forward
+agttcaggctgttgacgaaagcggtaccg
+>STM_2356594 forward
+ggcacgcacagtgtaaggatgcactacca
+>STM_3692026 backward
+atagccaccaatcatgagtagtccaccgc
+>STM_30401 forward
+cgcttacatgaggttacactcatcgacat
+>STM_4224102 backward
+tctctggatagtgctgctctggcatttat
+>STM_3967633 forward
+tcatagtgctacctttaacagtgcagggt
+>STM_4468573 forward
+ttgatggtcgggattacaccattgaaaac
+>STM_4468581 backward
+gttttcaatggtgtaatcccgaccatcaa
+>STM_4688821 backward
+ggcaagacctgctctgaagcgtcaaaagg
+>STM_4459502 forward
+gaggccaagactgctgatgggagcggtag
+>STM_4199331 backward
+tcacagcgggtagttgttctgcccgctca
+>STM_4459304 backward
+tttgctaccgctgttactctcggccgcaa
+>STM_4459142 forward
+gcaacgcaggcttctaaacagaacgatgc
+>STM_3349157 backward
+tcggcgagctggcgagcggtgcagcctct
+>STM_4199100 forward
+caatcaccccagttaccaatggtcagtga
+>STM_3327890 backward
+acgacggacaggactggtatgagtgtcag
+>STM_4867242 forward
+atggttaacatgcccgcaccgcgtgagcc
+>STM_3801606 backward
+agaccgtgctgtactacaccgctaactac
+>STM_3802123 backward
+ccaatacccacctctatacactccatttc
+>STM_4160888 backward
+cagtagggttgttccagacagtacgcgtt
+>STM_4847051 forward
+atttcagtcaggtgatgaaactggtggat
+>STM_4534860 forward
+cgtactggcggtgtagagtctatcgtcag
+>STM_4459361 backward
+attgggagcagtgctacctacaaactgag
+>STM_4640738 forward
+acaggtaacgatgccatacagcgccatga
+>STM_3956882 backward
+ctggggatcagcattggcggtgtcatgtt
+>STM_4527503 forward
+atcacacgcagggtagacccgcctggata
+>STM_4199422 backward
+acgtgggcccctaccatagagagcaaaac
+>STM_3218283 backward
+tgaaggggctctcttcaaccgagcgtgcg
+>STM_4867672 forward
+ttattagcgtctcctgtcctgcgcagcag
+>STM_4868129 forward
+aagcgcgccaggtcaggacgtatcaatgg
+>STM_2262264 forward
+gcgcgcatcggccctacggtacgtgagct
+>STM_3817995 forward
+tctctacggtatcctgggccgcgccattg
+>STM_4589358 backward
+ctccagcatacgtacaccctgtgcttcat
+>STM_4197206 backward
+ggactcgttacgctacgacattgcgcttc
+>STM_3884529 backward
+tcgacccactaccctattcccagcgcatc
+>STM_4261049 backward
+caccgggatcgcgctgtactgcgcgacac
+>STM_2988413 backward
+ttctgccgctatactagcctggtcgtcaa
+>STM_3783845 backward
+gataccgcctcttcatgactaatcgaaaa
+>STM_4196184 backward
+cactgggcaagctttaccgtaggcggcgg
+>STM_4262629 backward
+aatcctcgccagtctggactgcattcccc
+>STM_3818003 backward
+caatggcgcggcccaggataccgtagaga
+>STM_3818056 backward
+gaacagggcagtgcagataagcgtcagcg
+>STM_3818498 backward
+ctgggggtcagtatatatggaaccgatct
+>STM_4237783 backward
+aaatcacactgttcttaccccgtctactg
+>STM_4196814 forward
+tatccatactctctttaaccgtacaggca
+>STM_4196829 forward
+taaccgtacaggcaaagcgtggatgccag
+>STM_4262799 backward
+attgccggaggtaccacactgcgtaatat
+>STM_4731101 forward
+aagcaggtcagtgttagcgtcaggatttc
+>STM_3348264 forward
+acagccagcgcctcaagactgattgaaac
+>STM_279473 forward
+gtggtagacagtactggcactgcatggcg
+>STM_3225869 forward
+agcccaggcagtacaaccattactgggac
+>STM_4225211 forward
+ccgccgcgctgggtaataccattaacgaa
+>STM_342056 forward
+agattatccaacattgcaggatgcagcat
+>STM_4160880 forward
+aacgcgtactgtctggaacaaccctactg
+>STM_4224396 forward
+tgagtccgcactctgagctacaggttgtt
+>STM_4732860 forward
+ggaatgcacacctttagaccatactcact
+>STM_3854843 forward
+ctattcgactatacagaactggacccatc
+>STM_4160890 forward
+gtctggaacaaccctactgggggtgcatt
+>STM_4287899 forward
+gtagtaagtactccagtactgagcgttgg
+>STM_3801598 forward
+gtagttagcggtgtagtacagcacggtct
+>STM_3801393 forward
+tcaacgccagcaccagtgctgtgcaagat
+>STM_3801382 forward
+gttttgagcaatcaacgccagcaccagtg
+>STM_4534868 backward
+ctgacgatagactctacaccgccagtacg
+>STM_2972141 backward
+ctggggttgagtcctacactgagcgcgcc
+>STM_4199414 forward
+gttttgctctctatggtaggggcccacgt
+>STM_4459353 forward
+ctcagtttgtaggtagcactgctcccaat
+>STM_4262237 forward
+gcgcggcactgttaaagagtttggcctgt
+>STM_2972133 forward
+ggcgcgctcagtgtaggactcaaccccag
+>STM_4226078 backward
+gggccgccctatgctgaagtagctcagaa
+>STM_4262374 forward
+tcaccgtttcacctaatagtgagcaggga
+>STM_4262621 forward
+ggggaatgcagtccagactggcgaggatt
+>STM_4225709 backward
+aatccgcaaccatccatcctgttgcaggg
+>STM_279482 backward
+acgccatgcagtgccagtactgtctacca
+>STM_3956299 forward
+gtggtaatcaggcatagaccgttcctttt
+>STM_3692160 backward
+ggtgagacagcctcagcacagataccctc
+>STM_4262791 forward
+atattacgcagtgtggtacctccggcaat
+>STM_4200512 forward
+ccagcgcccagttcaggctgttgacgaaa
+>STM_3957450 forward
+tgtgcagccgggcctacgttgctggtaag
+>STM_4642377 backward
+acccgacacggtgttggccagacgtctta
+>STM_4225007 backward
+gcgccagactgtgctgaacgggcaattga
+>STM_2133903 backward
+cgctgaagcggtggtaagacactcccata
+>STM_3328020 forward
+accgttcccccttgtacggtataccactg
+>STM_3783837 forward
+ttttcgattagtcatgaagaggcggtatc
+>STM_4640746 backward
+tcatggcgctgtatggcatcgttacctgt
+>STM_3348891 backward
+gcactacggccacggctggatcgcaggta
+>STM_3348906 backward
+gcaaagccccggcatgcactacggccacg
+>STM_3349032 backward
+cgtctgcagactaatcccgctatgtcgag
+>STM_3349149 backward
+ctggcgagcggtgcagcctctgacgagcg
+>STM_3349196 backward
+acaaattgcagtcttatgtcatgcgtgca
+>STM_3956307 backward
+aaaaggaacggtctatgcctgattaccac
+>STM_3125631 forward
+atcgcgcgctgtctatcatgctggtttcc
+>STM_3746057 backward
+atcaccgccagtcctatatctgccgccat
+>STM_4473812 forward
+gaaggtgacagcctatagtattacattgt
+>STM_3854851 backward
+gatgggtccagttctgtatagtcgaatag
+>STM_4287907 backward
+ccaacgctcagtactggagtacttactac
+>BN373_4927197 forward
+ctggaacacacccatggactcgccgaaaa
+>BN373_1600743 backward
+cgatttcccgccctaaggctgtagccaca
+>BN373_672918 backward
+gcagcaggcagagcaggagcgggcggcca
+>BN373_161708 forward
+atgcctcccagcccaaagctgcatagcca
+>BN373_5111995 forward
+gccaggcgctactgtggatggcgacgatc
+>BN373_5099994 backward
+cctcagcgcggtcaggggcagcgcctttc
+>BN373_348383 backward
+actggactgaccccatgcctgtagacaaa
+>BN373_3951826 backward
+tggtggcataggtcactacagacctgtgt
+>BN373_1114662 backward
+atccagcaggctactggccttacttaatg
+>BN373_3243783 forward
+aatgcgctcgggtatgcacaccgtttatt
+>BN373_332353 forward
+ctccagcggagccatatcccgtgctaaaa
+>BN373_4875452 backward
+ttggtagatggcataggcgttagtcgcta
+>BN373_412059 forward
+ggcatgccatggtttaaccggatgggtga
+>BN373_1859875 backward
+cgggcgcgcaggcgaaagtcggtcagccg
+>BN373_4660206 forward
+cgtccggtccgccttgaacacactgtggt
+>BN373_1061198 forward
+gtctaaagcccccttggcctgattgtgct
+>BN373_608196 backward
+ctcccggcctcctgtggagagaagagatg
+>BN373_4928631 forward
+tttagtaccaccaccgacccggtcgcagc
+>BN373_357352 backward
+tctctgtaagggatataggtaagagcatt
+>BN373_4294298 forward
+cccgttgacggggtaatactgtgtggaga
+>BN373_4226501 backward
+ctgcggcacgtgccaggagagattgaaat
+>BN373_5195071 forward
+ttgcgtaccggttccggactgttctccag
+>BN373_357278 backward
+agcattaccagggtttgccttatagacaa
+>BN373_87292 backward
+tgctggcccagctcatacgagcgcgccgt
+>BN373_4821885 forward
+tgcacgtacacctatattctcggcaaccc
+>BN373_330098 forward
+aacgaccacacaccagagcttcaccggtt
+>BN373_159968 backward
+aagttgccctgtgtactccactggggcat
+>BN373_709312 forward
+tgatgccactgcgttgaccggcaggaagc
+>BN373_4926714 backward
+aggactcgcaccccaactctctccctgaa
+>BN373_331134 forward
+gcggccaacagtataagacttacctgaac
+>BN373_4821503 backward
+tttggggtcagtacaaagtgaggctcccc
+>BN373_327626 backward
+cgcacgcacagtgttacgctcctggtgac
+>BN373_4055535 forward
+gaaaggatcggttcaggcctggtgaccgt
+>BN373_139357 backward
+tcccggcgctggttcagggagcggattcg
+>BN373_328409 forward
+gattggcgcggtacaaggcaataagttgc
+>BN373_2709045 backward
+catgtggactagtatggactatgcaagga
+>BN373_1696262 backward
+agcgtgcgcagccctggggtattcggcga
+>BN373_61937 forward
+tatcgggaaggggctgacctacgccaaaa
+>BN373_1613900 backward
+ccggcggtcaccttaggcctgtgggccgg
+>BN373_4208689 forward
+aacactcgcagcttaaaccatcgcaggat
+>BN373_1898101 forward
+caggagctgacctctgagcagcgcgagct
+>BN373_4821426 forward
+atgtggtggacccatacacagtgttgatt
+>BN373_1968282 backward
+gctctgcacggcgtagacttgcgaagcca
+>BN373_3244545 forward
+tgcatggatggttcacgaccccccaggta
+>BN373_3540743 forward
+ttaaaccccagcgtcaccggcatacctac
+>BN373_5200887 backward
+gaacgagccggaacaacgctgcgcagccc
+>BN373_3939323 backward
+atccaggacaaccgtatacagcggcagct
+>BN373_4937882 forward
+ttactgcgctggctaacgccgcgcctgag
+>BN373_4226796 forward
+gttgaaggcggctgggatcagggcggcaa
+>BN373_4512960 forward
+cgttggcgcgatccagacccgtctggtcg
+>BN373_3830488 backward
+tgaatgccctggctcgcactgcggatact
+>BN373_4950628 forward
+aatgcgcagacatctgctccgcagcaacc
+>BN373_17877 forward
+tgaccacacggtggtgacctggccatgaa
+>BN373_672012 backward
+aaacaggccgctcttgagcaggtcaaagc
+>BN373_4821472 backward
+tgcatgaacaccataagagtagcctctta
+>BN373_3170679 forward
+tggtcagccagccttacgctacgcgcaat
+>BN373_4875887 backward
+ctgtagaccactctggaacatggctaatc
+>BN373_5114344 forward
+gattgccatcccccatgcccgccccgaat
+>BN373_3951821 backward
+gcataggtcactacagacctgtgtcatga
+>BN373_3246469 forward
+gaaactgactgctttgtgctgcgggcaaa
+>BN373_328667 forward
+tttgtaagcaggtaagaaccacttgctcc
+>BN373_4725295 backward
+tcgatgggcgacgcagagctggctgcgct
+>BN373_4739375 forward
+tatgcggtaacctataacctgtgcggcgc
+>BN373_3980527 backward
+tcgcagcgcaggacaagacctgggcagcg
+>BN373_4023597 forward
+gcgccgcgctgttctggcctgccgccgaa
+>BN373_4268374 backward
+taattgagggcgttaaggccgtgctgaac
+>BN373_356971 forward
+atagtcgccacatgtatacaatacatcaa
+>BN373_4648228 forward
+gtgggcaactgggctggggtgaccgttga
+>BN373_3255491 forward
+cgtgatacctggcttaaccttatgacgaa
+>BN373_993614 backward
+cagttggccagggtataggcataggccgc
+>BN373_3246835 forward
+gcgtagcactcccctcacctgctcatcac
+>BN373_3535615 backward
+gtagtgcataagccagggctgattccata
+>BN373_3253787 forward
+ttatcagtacgcttataggtgtgcgcacc
+>BN373_2238114 forward
+agctggtggagtactaccgcgcgcgcgcc
+>BN373_4780652 forward
+ccggcgcgcagggtataccctatgccgct
+>BN373_4551607 forward
+gcgattgccgcactgaagctgggggcggc
+>BN373_3268861 forward
+tggcgctacggtactgacctgcaggtgtt
+>BN373_3242721 forward
+tgttgacatagttccacactgtttcattg
+>BN373_4876057 backward
+gtgatgactccccctacgccgcgcagtga
+>BN373_2777782 backward
+acttcactcagcatcaaggagtacccagc
+>BN373_233011 forward
+ctatcgagcaggagtaatctgctatcggc
+>BN373_168759 forward
+ttgctggtcaccttaacacccgtctgtcg
+>BN373_2709973 backward
+tcaccgttctgccttacccagtgcgcttt
+>BN373_1645339 forward
+ctgcagagaagaggtatcgatggacactt
+>BN373_1743673 backward
+gcgcagcagacattagcccaggtcgcccg
+>BN373_1114575 backward
+gctttgcgagggctgatattgcctgagca
+>BN373_4898276 forward
+cgcccgcacggctataatccttgcattca
+>BN373_708640 backward
+gcgccgcgagggtaaaggtcgtgccgttg
+>BN373_5202342 forward
+tttaatagaagtactctgctgtgcgggat
+>BN373_337401 backward
+gcgaagaagacctctatactgaccaaacg
+>BN373_579313 forward
+ttctctgcaacccttgaaccgatcgatac
+>BN373_4283228 forward
+agttcgcgcagggtatagtcgcgataacg
+>BN373_4820132 forward
+gcattcctcgcctccagtgtgtgtaagtt
+>BN373_5011015 backward
+cctttgcctggctgtataccctctgccag
+>BN373_4950045 backward
+gatgcgcaaggggtaatgcagggcgggct
+>BN373_3927781 backward
+cacccagtcgggactgagccgactgctat
+>BN373_70682 forward
+gtgaaccctggcgttagccagtccacgcc
+>BN373_77533 forward
+atatcaagcagggtgataccgagcaaacc
+>BN373_1083849 backward
+gtttctgacaccattgatgtggtcaatga
+>BN373_3152570 backward
+aaagttaactgccctacactggtgttttt
+>SL1344_3914284 backward
+caatgcgcaaccgtaaaccagtcgtgaac
+>SL1344_3549236 backward
+tttgagagggtagtagggtatattgtcac
+>SL1344_4457630 forward
+ctctccagcctggaccagcccgcttctga
+>SL1344_4703713 backward
+aaccacactgtatattactacgcgtttca
+>SL1344_3914695 backward
+ctttttacagcccagagagggctcgccac
+>SL1344_4570980 backward
+ctgctgcctgtcctgcacagcgcaggctg
+>SL1344_4754543 backward
+tgccgggcagcatatagcaggtcatgacc
+>SL1344_3320964 backward
+aaccatacggcttagcatcgcttcatcat
+>SL1344_4293070 backward
+acgtgaccagtataatagtgcatatcaga
+>SL1344_4608762 backward
+taacgcgttacctaatgtcgtgcctaaac
+>SL1344_4508751 backward
+caatactcagtcttacaccgttaacatcc
+>SL1344_3736466 backward
+cgtctcatgaccttacactgcgcatttat
+>SL1344_4863084 backward
+gtagtcccagtatagtactgaccagacag
+>SL1344_1066022 backward
+gcagcaccgacgatactcagaccatcctg
+>SL1344_2576850 backward
+tatttcactgaatctgtactatgcacaaa
+>SL1344_4573705 backward
+ttatccaggcgggtctaccctgcgtgtga
+>SL1344_4243256 forward
+ccgcctacggtaaagcttgcccagtgggc
+>SL1344_4344659 forward
+gcggcctgtgtacacttgccgcccgccat
+>SL1344_3539924 forward
+cccctcgtcgtaacactgtgcaaaacgtt
+>SL1344_3858794 forward
+tgggctcactttgtactgaccccaaaaac
+>SL1344_3982098 forward
+ccgtgaccaccgcggtactgagcgcgatc
+>SL1344_2503776 backward
+gcagtatcgcttctagaccacatcgggat
+>SL1344_4816559 backward
+ttccatgtcgcccagcaccagtccggtta
+>SL1344_4079114 backward
+gcctgcgcgaccttagcccgtgcgtagtg
+>SL1344_135795 backward
+tttgacggacaccttaaccgctcgctatc
+>SL1344_35373 forward
+gttaacatgcccgcaccgcgtgagccgat
+>SL1344_2879105 forward
+tgaggaggtacagcaccaggtatcaattc
+>SL1344_3848648 backward
+tcttgcacagcactggtgctggcgttgat
+>SL1344_3865741 forward
+tcggttccatatatactgacccccagcgc
+>SL1344_3739417 backward
+ggtgagacagcctcagcacagataccctc
+>SL1344_94018 backward
+tgtcgatgagtgtaacctcatgtaagcgg
+>SL1344_1070437 forward
+ctgacctgtattagctcagacctgaactg
+>SL1344_3692531 forward
+atcccagaaggcctgtacagcgcgaaaac
+>SL1344_4520012 backward
+caatgtaatactataggctgtcaccttca
+>SL1344_133885 forward
+ttgagtagtagtagcccagtgaaacgaac
+>SL1344_3500934 forward
+gcggacggtgtagagccgcgaacgggaca
+>SL1344_2763132 forward
+aggcgatgtacagacgcggttaaaaattg
+>SL1344_3529502 backward
+gcttgcccggcctacaacagtgtgagcgg
+>SL1344_2763307 forward
+agcaccgacgatactcagaccatcctgac
+>SL1344_2042243 forward
+acactcataccagtcctgtccatcgtccg
+>SL1344_4296937 forward
+catagcctccatagattgtctggtggatg
+>SL1344_4272080 forward
+attgcccgttcagcacagtctggcgcgtt
+>SL1344_4272874 backward
+ctgtgcgcagttaatgtgccgtcactcaa
+>SL1344_4309322 backward
+caggccaaactctttaacagtgccgcgct
+>SL1344_4436642 backward
+cagcgcactgtttacgacaatactgtccg
+>SL1344_3865246 forward
+ctacggtatcctgggccgcgccattggaa
+>SL1344_3067773 forward
+tgacgaccaggctagtatagcggcagaaa
+>SL1344_2042389 forward
+ttgtacggtataccactgactcccgactc
+>SL1344_4581056 forward
+actggcggtgtagagtctatcgtcagcca
+>SL1344_4867188 backward
+tccagcacggtatagagctctgtcaccgg
+>SL1344_3199325 forward
+cgacgcggtataagacggaacgcgaatgc
+>SL1344_428558 forward
+tggcgccatatagacccaacccagaccga
+>SL1344_3728430 backward
+taacgccctgtactggatggagcgttttg
+>SL1344_4309459 backward
+ccctgctcactattaggtgaaacggtgac
+>SL1344_3549230 forward
+gacaatataccctactaccctctcaaaac
+>SL1344_4208214 forward
+gcgtactgtctggaacaaccctactgggg
+>SL1344_36335 backward
+tgtcgaccggaacagatcagcaaattgtt
+>SL1344_36264 backward
+cattgatacgtcctgacctggcgcgcttc
+>SL1344_3200153 forward
+tcggtgagtcccatactgagctgacaggt
+>SL1344_2946963 forward
+cctgggaaaggttaagactgggactaaaa
+>SL1344_2042728 backward
+cagggatggcatctgtacagccagcgaaa
+>SL1344_4457629 forward
+tctctccagcctggaccagcccgcttctg
+>SL1344_4284852 forward
+ccagtagacggggtaagaacagtgtgatt
+>SL1344_427550 backward
+tgcagaccagtcttgatcaacatcaccgc
+>SL1344_2979048 backward
+cgcgggcaagcccaacacgctgacgcatc
+>SL1344_4334984 backward
+caacgctcagtactggagtacttactacg
+>SL1344_3865250 backward
+aatggcgcggcccaggataccgtagagaa
+>SL1344_3905716 backward
+acttggtcggtgtagtagtgaccgcacca
+>SL1344_3652667 backward
+gccttcgctgtcctggactgagacaacgt
+>SL1344_4504573 backward
+ttgggagcagtgctacctacaaactgagg
+>SL1344_3858798 backward
+ttggggtcagtacaaagtgagcccacctc
+>SL1344_4517113 backward
+cctaccaccagggtagcaataaccactcc
+>SL1344_4334980 forward
+gtaagtactccagtactgagcgttgggca
+>SL1344_3204996 backward
+gaaaccagcatgatagacagcgcgcgatt
+>SL1344_3051503 forward
+gcgctcagtgtaggactcaaccccaggtc
+>SL1344_2385388 forward
+acgcacagtgtaaggatgcactaccatct
+>SL1344_4208218 backward
+agtagggttgttccagacagtacgcgttc
+>SL1344_94014 forward
+ttacatgaggttacactcatcgacatttc
+>SL1344_3529498 forward
+tcacactgttgtaggccgggcaagcgtag
+>SL1344_4315708 backward
+ccttcccctgtgctacactgcgcgccact
+>SL1344_2245780 forward
+tttaccacttctgtactgcacgttggcgc
+>SL1344_2245674 forward
+aggcaccgtgtatagctgcgttgtcacac
+>SL1344_3831617 backward
+gccttatcaagcctacaccgtacctgtag
+>SL1344_3728426 forward
+acgctccatccagtacagggcgttaccca
+>SL1344_341978 backward
+cgccatgcagtgccagtactgtctaccac
+>SL1344_1066008 backward
+actcagaccatcctgactgcctcgacgga
+>SL1344_3500938 backward
+ccgttcgcggctctacaccgtccgcaaac
+>SL1344_3739601 backward
+ggttccccagtgtggggagcagtcactca
+>SL1344_4079106 forward
+cactacgcacgggctaaggtcgcgcaggc
+>SL1344_3848849 forward
+gttagcggtgtagtacagcacggtctgac
+>SL1344_4310018 backward
+tcactaccaatataaacctgtgcggcagc
+>SL1344_4315704 forward
+gcgcgcagtgtagcacaggggaaggaggg
+>SL1344_4309876 backward
+ttgccggaggtaccacactgcgtaatatg
+>SL1344_4246494 forward
+ttgctctctatggtaggggcccacgttac
+>SL1344_2763321 forward
+tcagaccatcctgactgcctcgacggatg
+>SL1344_4308126 backward
+accgggatcgcgctgtactgcgcgacacg
+>SL1344_4003547 forward
+tggtaatcaggcatagaccgttccttttg
+>SL1344_4309706 backward
+atcctcgccagtctggactgcattcccca
+>SL1344_16491 forward
+tttcagcctggtctaggtcactctattct
+>SL1344_3630398 forward
+cagcaaataccctagcaccgcgccgatgc
+>ERS227112_273813 backward
+ccggtattcatccctgaacaccggaagtc
+>ERS227112_321892 forward
+gcaatccgcagggtacgcaacgccttcag
+>ERS227112_1453112 forward
+acggtcaccaggcctgaaccgatcctttc
+>ERS227112_260114 forward
+cggtggcaccatcgtcctcctctgaactg
+>ERS227112_273942 forward
+gatgttcagggtggaacggtggcaccatc
+>ERS227112_1946134 forward
+gcagcgcgctgtctaccgttgcgcaggct
+>ERS227112_1237992 forward
+gaactcgacaggcctgcgctgcgtgaaac
+>ERS227112_272898 backward
+tgaacagcagcccttgcaccggggatcgc
+>ERS227112_273958 forward
+cggtggcaccatcgtcctcctctgaactg
+>ERS227112_259056 backward
+tgaacagcagcccttgcaccggggatcgc
+>ERS227112_5851107 backward
+taagcgcacagtatatgaatgtatcgcct
+>ERS227112_277276 backward
+ctcatggacggttgtaaggttccctgcat
+>ERS227112_264664 backward
+gcatcaaccacctgcacaccgttctcgat
+>ERS227112_259264 backward
+ggaaagcgcagccttatccctggataagg
+>ERS227112_273950 forward
+gggtggaacggtggcaccatcgtcctcct
+>ERS227112_277268 forward
+atgcagggaaccttacaaccgtccatgag
+>ERS227112_259120 forward
+gattttgtgacttataacccgcctcatga
+>ERS227112_363711 backward
+aacttgcactgtattgagatgttaccggc
+>ERS227112_130418 backward
+gagtgtcacggtatcaggttgcctccaca
+>ERS227112_258932 forward
+acgctgctcacccggaagaggggctgaaa
+>ERS227112_134078 backward
+ttcatgcgcagtatcgggatgaacgctgg
+>ERS227112_272847 forward
+aaatattgcgaccttaaacagtcgcattg
+>ERS227112_1113838 backward
+cttatcgcctgcctgtggctggccatgaa
+>ERS227112_259479 backward
+catcgggcccgcttaccaccaccaccttg
+>ERS227112_272962 forward
+gattttgtgacttataacccgcctcatga
+>ERS227112_259969 backward
+ccggtattcatccctgaacaccggaagtc
+>ERS227112_260098 forward
+gatgttcagggtggaacggtggcaccatc
+>ERS227112_259411 forward
+aagactgaagatattaaggggttgggaga
+>ERS227112_272774 forward
+acgctgctcacccggaagaggggctgaaa
+>ERS227112_273323 backward
+catcgggcccgcttaccaccaccaccttg
+>ERS227112_259420 forward
+gatattaaggggttgggagagttgaaaga
+>ERS227112_273264 forward
+gatattaaggggttgggagagttgaaaga
+>ERS227112_273106 backward
+ggaaagcgcagccttatccctggataagg
+>ERS227112_273255 forward
+aagactgaagatattaaggggttgggaga
+>ERS227112_259005 forward
+aaatattgcgaccttaaacagtcgcattg
+>ERS227112_259428 backward
+tctttcaactctcccaaccccttaatatc
+>ERS227112_1113830 forward
+ttcatggccagccacaggcaggcgataag
+>ERS227112_695960 backward
+attccgcgcaggatatcgatcggcagctg
+>ERS227112_363703 forward
+gccggtaacatctcaatacagtgcaagtt
+>ERS227112_259755 forward
+tgatggttctgtcattgaaagtctgggga
+>ERS227112_273805 forward
+gacttccggtgttcagggatgaataccgg
+>ERS227112_260122 forward
+ccatcgtcctcctctgaactgacggggat
+>ERS227112_259541 forward
+agcacggtgagcttgaagggtaccgcgcc
+>ERS227112_260117 forward
+tggcaccatcgtcctcctctgaactgacg
+>ERS227112_260106 forward
+gggtggaacggtggcaccatcgtcctcct
+>ERS227112_273098 forward
+ccttatccagggataaggctgcgctttcc
+>ERS227112_259607 forward
+cgggtaagcaggttaaagggccggatcca
+>ERS227112_273948 forward
+cagggtggaacggtggcaccatcgtcctc
+>ERS227112_1497748 backward
+gtcatcagcggttatagaccgcgcgcgac
+>ERS227112_259545 forward
+cggtgagcttgaagggtaccgcgccagtg
+>ERS227112_260104 forward
+cagggtggaacggtggcaccatcgtcctc
+>ERS227112_1497740 forward
+gtcgcgcgcggtctataaccgctgatgac
+>ERS227112_260096 forward
+gggatgttcagggtggaacggtggcacca
+>ERS227112_260104 backward
+tggtgccaccgttccaccctgaacatccc
+>ERS227112_259490 forward
+gggcccgatggtatggtgataaaaagcgt
+>ERS227112_260091 forward
+tatccgggatgttcagggtggaacggtgg
+>ERS227112_259913 backward
+ttgcttaccagttaccatcccggtaaaca
+>ERS227112_273749 forward
+tgtttaccgggatggtaactggtaagcaa
+>ERS227112_5849605 forward
+agacaacgtcattgtggatagcgccgtat
+>ERS227112_273748 forward
+ttgtttaccgggatggtaactggtaagca
+>ERS227112_259048 forward
+gcgatccccggtgcaagggctgctgttca
+>ERS227112_273451 forward
+cgggtaagcaggttaaagggccggatcca
+>ERS227112_259487 forward
+agcgggcccgatggtatggtgataaaaag
+>ERS227112_273289 forward
+aagagggtaaacctaaaacccctaaacaa
+>ERS227112_273302 forward
+taaaacccctaaacaaggtggtggtggta
+>ERS227112_273935 forward
+tatccgggatgttcagggtggaacggtgg
+>ERS227112_260099 backward
+ccaccgttccaccctgaacatcccggata
+>ERS227112_581015 forward
+tgattgtccggtcctggagcgagcgtgcc
+>ERS227112_581023 backward
+ggcacgctcgctccaggaccggacaatca
+>ERS227112_273312 forward
+aaacaaggtggtggtggtaagcgggcccg
+>ERS227112_273314 forward
+acaaggtggtggtggtaagcgggcccgat
+>ERS227112_273315 forward
+caaggtggtggtggtaagcgggcccgatg
+>ERS227112_273940 forward
+gggatgttcagggtggaacggtggcacca
+>ERS227112_272890 forward
+gcgatccccggtgcaagggctgctgttca
+>ERS227112_259961 forward
+gacttccggtgttcagggatgaataccgg
+>ERS227112_265256 backward
+ccaccacccggccgccatcagcttccgta
+>ERS227112_259256 forward
+ccttatccagggataaggctgcgctttcc
+>ERS227112_273399 forward
+gaagggtaccgcgccagtgatggcgaaca
+>ERS227112_273325 forward
+gtggtaagcgggcccgatggtatggtgat
+>ERS227112_282157 backward
+gagtcgttctgtccagcaccgcgccaagt
+>ERS227112_273599 forward
+tgatggttctgtcattgaaagtctgggga
+>ERS227112_259905 forward
+tgtttaccgggatggtaactggtaagcaa
+>ERS227112_259904 forward
+ttgtttaccgggatggtaactggtaagca
+>ERS227112_1485063 backward
+gcgccgcgctgttctggcctgccgccgaa
+>ERS227112_273331 forward
+agcgggcccgatggtatggtgataaaaag
+>ERS227112_259481 forward
+gtggtaagcgggcccgatggtatggtgat
+>ERS227112_273943 backward
+ccaccgttccaccctgaacatcccggata
+>ERS227112_273966 forward
+ccatcgtcctcctctgaactgacggggat
+>ERS227112_273334 forward
+gggcccgatggtatggtgataaaaagcgt
+>ERS227112_259445 forward
+aagagggtaaacctaaaacccctaaacaa
+>ERS227112_259458 forward
+taaaacccctaaacaaggtggtggtggta
+>ERS227112_273961 forward
+tggcaccatcgtcctcctctgaactgacg
+>ERS227112_259468 forward
+aaacaaggtggtggtggtaagcgggcccg
+>ERS227112_259470 forward
+acaaggtggtggtggtaagcgggcccgat
+>ERS227112_273757 backward
+ttgcttaccagttaccatcccggtaaaca
+>ERS227112_273385 forward
+agcacggtgagcttgaagggtaccgcgcc
+>ERS227112_273389 forward
+cggtgagcttgaagggtaccgcgccagtg
+>ERS227112_259471 forward
+caaggtggtggtggtaagcgggcccgatg
+>ERS227112_273948 backward
+tggtgccaccgttccaccctgaacatccc
+>ERS227112_259555 forward
+gaagggtaccgcgccagtgatggcgaaca
+>SL3261_96672 forward
+gcaaggggcagcccttgaatgaccaacac
+>SL3261_4365232 backward
+gcggggagtagtgtaataccactgcccgc
+>SL3261_4309323 backward
+acaggccaaactctttaacagtgccgcgc
+>SL3261_4271538 backward
+ttatcgctatgctgatgactgccgggcta
+>SL3261_4581061 backward
+ctgacgatagactctacaccgccagtacg
+>SL3261_4330505 forward
+gtcggagatagccgtgtacaaggggaatc
+>SL3261_4309877 backward
+attgccggaggtaccacactgcgtaatat
+>SL3261_4635534 forward
+gaagcacagggtgtacgtatgctggagca
+>SL3261_1137144 forward
+gctctgctccatcttatactgctgcttag
+>SL3261_3932642 forward
+tgttcgtacacatcaagattgacgatagt
+>SL3261_4272761 forward
+aaagaaacgggtgcaggaccctgcaacag
+>SL3261_3865738 forward
+agatcggttccatatatactgacccccag
+>SL3261_4167710 backward
+ctacatacaagtgtagcaccgttcgctgc
+>SL3261_4635532 forward
+atgaagcacagggtgtacgtatgctggag
+>SL3261_3639212 forward
+cggtgacggcggtatacaccatccagtta
+>SL3261_3865746 backward
+ctgggggtcagtatatatggaaccgatct
+>SL3261_3756379 forward
+tcttcagaccgtcctgcaccgcgcgcgcc
+>SL3261_4309869 forward
+atattacgcagtgtggtacctccggcaat
+>SL3261_4073153 backward
+gccaaggatagattacaacagaggatgag
+>SL3261_4773685 forward
+tcagcgataaccattgaaccattgggtcc
+>SL3261_2695345 backward
+attttgcggcgttctgaacagggccagtt
+>SL3261_3594882 forward
+tttgcgccctgttgtacacaccaggagag
+>SL3261_3569229 backward
+gtcatcaccgagtctaccccttgcaaacg
+>SL3261_4170898 backward
+atccggcacagtatcgctctaaagccata
+>SL3261_2878562 forward
+acttcaaacggtacagaagtgaagtcctt
+>SL3261_3936222 forward
+atcacacgctgctcaataccaagctcccg
+>SL3261_3634938 forward
+actatcgtcagtgtagcgccatgccgttg
+>SL3261_3728431 backward
+gtaacgccctgtactggatggagcgtttt
+>SL3261_3831610 forward
+tacaggtacggtgtaggcttgataaggcg
+>SL3261_4208221 forward
+gtctggaacaaccctactgggggtgcatt
+>SL3261_4208211 forward
+aacgcgtactgtctggaacaaccctactg
+>SL3261_3549237 backward
+ttttgagagggtagtagggtatattgtca
+>SL3261_3549229 forward
+tgacaatataccctactaccctctcaaaa
+>SL3261_4031694 forward
+atcatggacaggccaggattgccagaaca
+>SL3261_4202489 backward
+ttttcagactgtcctggaactcctgaagt
+>SL3261_3701642 forward
+actttagtcagtgtaatccgtatcaaatc
+>SL3261_4700953 forward
+tttataaacaccctaaagctggtcgcgat
+>SL3261_4000874 backward
+ggctttggtgagtcagtatagtgcaattc
+>SL3261_4570973 forward
+agcctgcgctgtgcaggacaggcagcaga
+>SL3261_3934688 forward
+gcgattgatacccccacaccatcaagata
+>SL3261_3849371 backward
+ccaatacccacctctatacactccatttc
+>SL3261_4353444 forward
+tgcgtgagcggtgtagcgcatacctatat
+>SL3261_3051508 backward
+ctggggttgagtcctacactgagcgcgcc
+>SL3261_2838190 backward
+acattgaccagcttcatactgagaagctg
+>SL3261_4513866 backward
+tagcgccaccatccagggttacgcgtacc
+>SL3261_3935007 forward
+ttgtgacacggggtaagccccccaactat
+>SL3261_3935014 forward
+acggggtaagccccccaactatgccaggg
+>SL3261_3297616 forward
+cgcacgctcggttgaagagagccccttca
+>SL3261_208893 backward
+aaaacactcactgtggcactggccgccat
+>SL3261_358289 backward
+gggtcgagcagcgttacgtgtagccccac
+>SL3261_3728423 forward
+aaaacgctccatccagtacagggcgttac
+>SL3261_2385393 backward
+tggtagtgcatccttacactgtgcgtgcc
+>SL3261_2161369 forward
+cagcagcacacgcctgagccatcccataa
+>SL3261_4293071 backward
+aacgtgaccagtataatagtgcatatcag
+>SL3261_4315709 backward
+tccttcccctgtgctacactgcgcgccac
+>SL3261_3736459 forward
+taaatgcgcagtgtaaggtcatgagacga
+>SL3261_3646114 backward
+tcgccgaccagtactgcgccgagcagcgt
+>SL3261_3932300 forward
+agctcagatggcatagggctggtagattc
+>SL3261_3529503 backward
+cgcttgcccggcctacaacagtgtgagcg
+>SL3261_3935196 forward
+atcaaggtgcgttatgcgctgtactacct
+>SL3261_3887198 forward
+gacctctacagccttaaggagcacgaaat
+>SL3261_3935206 forward
+gttatgcgctgtactacctctggatcttt
+>SL3261_4735005 backward
+ggcaagacctgctctgaagcgtcaaaagg
+>SL3261_3630397 forward
+ccagcaaataccctagcaccgcgccgatg
+>SL3261_4686928 backward
+tcatggcgctgtatggcatcgttacctgt
+>SL3261_4003546 forward
+gtggtaatcaggcatagaccgttcctttt
+>SL3261_4573696 forward
+atcacacgcagggtagacccgcctggata
+>SL3261_3500939 backward
+cccgttcgcggctctacaccgtccgcaaa
+>SL3261_3354949 forward
+ccatcggactgtgtacgcccccggtaggc
+>SL3261_3858799 backward
+tttggggtcagtacaaagtgagcccacct
+>SL3261_4582781 forward
+cgggtagacggtgtagcgatatccggaag
+>SL3261_3692530 forward
+gatcccagaaggcctgtacagcgcgaaaa
+>SL3261_3646106 forward
+acgctgctcggcgcagtactggtcggcga
+>SL3261_135788 forward
+atagcgagcggttaaggtgtccgtcaaac
+>SL3261_3269704 forward
+gcaacgcatcgtccagatccgtctgtttt
+>SL3261_3831093 backward
+gataccgcctcttcatgactaatcgaaaa
+>SL3261_4334977 forward
+gtagtaagtactccagtactgagcgttgg
+>SL3261_389671 backward
+ttcatggttgcttcagacccgatcctggc
+>SL3261_2385385 forward
+ggcacgcacagtgtaaggatgcactacca
+>SL3261_4208219 backward
+cagtagggttgttccagacagtacgcgtt
+>SL3261_3905709 forward
+ggtgcggtcactactacaccgaccaagta
+>SL3261_4014879 forward
+tcatagtgctacctttaacagtgcagggt
+>SL3261_3849625 forward
+aatgggtgcgctgtacgcctggtgttgca
+>SL3261_3848846 forward
+gtagttagcggtgtagtacagcacggtct
+>SL3261_3500931 forward
+tttgcggacggtgtagagccgcgaacggg
+>SL3261_3931767 forward
+gatgcgctgggaatagggtagtgggtcga
+>SL3261_3848641 forward
+tcaacgccagcaccagtgctgtgcaagat
+>SL3261_4308119 forward
+gtgtcgcgcagtacagcgcgatcccggtg
+>SL3261_3336589 backward
+gtcgggggtggggttatacagcgtccatg
+>SL3261_3936467 forward
+atcttgcgctgagataccccgtgccatga
+>SL3261_4003554 backward
+aaaaggaacggtctatgcctgattaccac
+>SL3261_4273148 forward
+ttctgagctacttcagcatagggcggccc
+>SL3261_3865251 backward
+caatggcgcggcccaggataccgtagaga
+>SL3261_3439498 forward
+tttccggatggcctggaactgactgaaca
+>SL3261_4688551 forward
+taagacgtctggccaacaccgtgtcgggt
+>SL3261_3204140 backward
+tatgcggccagtatgttagaggccaggcg
+>SL3261_4703714 backward
+gaaccacactgtatattactacgcgtttc
+>SL3261_3936008 forward
+agcacccggagtgtaaagctcaccattca
+>SL3261_4315701 forward
+gtggcgcgcagtgtagcacaggggaagga
+>SL3261_4334985 backward
+ccaacgctcagtactggagtacttactac
+>STMMW_3398145 backward
+gtttcaatcagtcttgaggcgctggctgt
+>STMMW_3880145 forward
+ggctggagcagccttgtcttgaacatctt
+>STMMW_3632444 forward
+aagccggacagctataggtgtaaagggga
+>STMMW_2023573 backward
+cgaaggcgatgtgggatgccgcccagcgt
+>STMMW_3866866 backward
+gaacagggcagtgcagataagcgtcagcg
+>STMMW_3916250 forward
+tggcgagccctctctgggctgtaaaaagg
+>STMMW_4309444 backward
+caccgggatcgcgctgtactgcgcgacac
+>STMMW_4851239 forward
+aaacgtgacgcgcttatagtgctcgacgg
+>STMMW_3936570 forward
+ttgtgacacggggtaagccccccaactat
+>STMMW_4521420 backward
+acaatgtaatactataggctgtcaccttc
+>STMMW_3937805 forward
+aagctcccgactataggcctggcactttt
+>STMMW_3275756 backward
+gtcccagtaatggttgtactgcctgggct
+>STMMW_4208682 backward
+gttacgctcatgacagaacagatcgcggg
+>STMMW_3937804 forward
+caagctcccgactataggcctggcacttt
+>STMMW_3937785 forward
+atcacacgctgctcaataccaagctcccg
+>STMMW_3325487 forward
+ccatcggactgtgtacgcccccggtaggc
+>STMMW_3937775 forward
+accataccagatcacacgctgctcaatac
+>STMMW_3377919 forward
+cccttgtacggtataccactgattaccga
+>STMMW_3936251 forward
+gcgattgatacccccacaccatcaagata
+>STMMW_4775092 forward
+tcagcgataaccattgaaccattgggtcc
+>STMMW_4736412 backward
+ggcaagacctgctctgaagcgtcaaaagg
+>STMMW_4317026 backward
+tccttcccctgtgctacactgcgcgccac
+>STMMW_4689958 forward
+taagacgtctggccaacaccgtgtcgggt
+>STMMW_2873703 backward
+tcggcgatcgccttaaggctactgctctt
+>STMMW_3378072 forward
+tgatgagccagcccctaactgaacatcta
+>STMMW_4705121 backward
+gaaccacactgtatattactacgcgtttc
+>STMMW_4572380 forward
+agcctgcgctgtgcaggacaggcagcaga
+>STMMW_4317018 forward
+gtggcgcgcagtgtagcacaggggaagga
+>STMMW_3268154 forward
+cgcacgctcggttgaagagagccccttca
+>STMMW_4005683 forward
+aacatgacaccgccaatgctgatccccag
+>STMMW_3937571 forward
+agcacccggagtgtaaagctcaccattca
+>STMMW_2187309 forward
+cagcagcacacgcctgagccatcccataa
+>STMMW_3220103 forward
+agatttgcacgttcagtaccgtaccggca
+>STMMW_4636939 forward
+atgaagcacagggtgtacgtatgctggag
+>STMMW_3550956 backward
+ttttgagagggtagtagggtatattgtca
+>STMMW_4274465 forward
+ttctgagctacttcagcatagggcggccc
+>STMMW_3011415 backward
+ctaaggatgatctcataactctccgggag
+>STMMW_3502658 backward
+cccgttcgcggctctacaccgtccgcaaa
+>STMMW_3741333 forward
+gcttgccaccatcttagccggtatgcttt
+>STMMW_3867513 forward
+ttttcgcttaatgtatgacagcctggcca
+>STMMW_4336302 backward
+ccaacgctcagtactggagtacttactac
+>STMMW_4309436 forward
+gtgtcgcgcagtacagcgcgatcccggtg
+>STMMW_4336294 forward
+gtagtaagtactccagtactgagcgttgg
+>STMMW_4310640 backward
+acaggccaaactctttaacagtgccgcgc
+>STMMW_3850933 backward
+ccaatacccacctctatacactccatttc
+>STMMW_4702360 forward
+tttataaacaccctaaagctggtcgcgat
+>STMMW_3850203 forward
+tcaacgccagcaccagtgctgtgcaagat
+>STMMW_4688335 backward
+tcatggcgctgtatggcatcgttacctgt
+>STMMW_446808 backward
+cctgcctccagctccagatcgttcgacaa
+>STMMW_133880 forward
+gcgttgagtagtagtagcccagtgaaacg
+>STMMW_3933330 forward
+gatgcgctgggaatagggtagtgggtcga
+>STMMW_4016442 forward
+tcatagtgctacctttaacagtgcagggt
+>STMMW_4515273 backward
+tagcgccaccatccagggttacgcgtacc
+>STMMW_4674918 backward
+cattctgatggtgctaatctggtcgattg
+>STMMW_3888760 forward
+gacctctacagccttaaggagcacgaaat
+>STMMW_3738010 forward
+taaatgcgcagtgtaaggtcatgagacga
+>STMMW_3021920 backward
+ctggggttgagtcctacactgagcgcgcc
+>STMMW_4005108 forward
+gtggtaatcaggcatagaccgttcctttt
+>STMMW_4438063 backward
+tcagcgcactgtttacgacaatactgtcc
+>STMMW_2721972 backward
+catacgattaggccagggctgtgttaaaa
+>STMMW_4508358 forward
+tcagtgttcaggtatgggatgccatgtct
+>STMMW_4575103 forward
+atcacacgcagggtagacccgcctggata
+>STMMW_3174684 backward
+tatgcggccagtatgttagaggccaggcg
+>STMMW_4766038 backward
+taaccaataagtattacactgatatcact
+>STMMW_2271611 forward
+accaggcaccgtgtatagctgcgttgtca
+>STMMW_905966 forward
+aagtcagtcacctatacccgtgtgacaga
+>STMMW_430689 backward
+ttcatggttgcttcagacccgatcctggc
+>STMMW_3933863 forward
+agctcagatggcatagggctggtagattc
+>STMMW_2853659 backward
+acattgaccagcttcatactgagaagctg
+>STMMW_208891 backward
+aaaacactcactgtggcactggccgccat
+>STMMW_3860361 backward
+tttggggtcagtacaaagtgagcccacct
+>STMMW_3832655 backward
+gataccgcctcttcatgactaatcgaaaa
+>STMMW_4209548 backward
+cagtagggttgttccagacagtacgcgtt
+>STMMW_3932229 backward
+actttcctgagggtagagctggctgtttc
+>STMMW_3175541 backward
+ggaaaccagcatgatagacagcgcgcgat
+>STMMW_3938030 forward
+atcttgcgctgagataccccgtgccatga
+>STMMW_4074408 backward
+attttttgctgtgtaagtgagtagtctat
+>STMMW_3038184 forward
+ttgacgaccaggctagtatagcggcagaa
+>STMMW_2411343 backward
+tggtagtgcatccttacactgtgcgtgcc
+>STMMW_2411335 forward
+ggcacgcacagtgtaaggatgcactacca
+>STMMW_4002436 backward
+ggctttggtgagtcagtatagtgcaattc
+>STMMW_4182035 backward
+tttcagggtggttcagccgcagctgaatc
+>STMMW_4560376 backward
+tgacccccctgcattatgttagccaacat
+>STMMW_4182122 backward
+tgttgtcgcagcttatgtcggcgtcaata
+>STMMW_3833172 forward
+tacaggtacggtgtaggcttgataaggcg
+>STMMW_4778700 backward
+gaaatcctgacgctaacactgacctgctt
+>STMMW_2271717 forward
+gcgtttaccacttctgtactgcacgttgg
+>STMMW_4272855 backward
+ttatcgctatgctgatgactgccgggcta
+>STMMW_135786 forward
+atagcgagcggttaaggtgtccgtcaaac
+>STMMW_3866813 backward
+caatggcgcggcccaggataccgtagaga
+>STMMW_4305300 forward
+tttgcggccaatcatgagttgttcaccct
+>STMMW_2529727 backward
+tgcagtatcgcttctagaccacatcggga
+>STMMW_3850408 forward
+gtagttagcggtgtagtacagcacggtct
+>STMMW_3936759 forward
+atcaaggtgcgttatgcgctgtactacct
+>STMMW_4209540 forward
+aacgcgtactgtctggaacaaccctactg
+>STMMW_3867308 backward
+ctgggggtcagtatatatggaaccgatct
+>STMMW_3975698 backward
+ttactggtgcccactattgtgcccccaaa
+>STMMW_3851187 forward
+aatgggtgcgctgtacgcctggtgttgca
+>STMMW_4005116 backward
+aaaaggaacggtctatgcctgattaccac
+>STMMW_3017444 forward
+cggcatatatccgcaaaggtcatcatatc

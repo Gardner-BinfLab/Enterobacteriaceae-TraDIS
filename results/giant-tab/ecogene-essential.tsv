@@ -1,0 +1,300 @@
+Gene_EGGNOG	Gene_Keio	KEGG_acc	KEGG_pathway	Locus..Escherichia.coli.BW25113..Keio.
+grpE	grpE	-	-	b2614
+rpmD	rpmD	eco03010	Ribosome	b3302
+fldA	fldA	-	-	b0684
+msbA	msbA	eco02010	ABC transporters	b0914
+rpmB	rpmB	eco03010	Ribosome	b3637
+minD	minD	-	-	b1175
+bamD	bamD	-	-	b2595
+nrdB	nrdB	eco00230 / eco00240 / eco01100	Purine metabolism / Pyrimidine metabolism / Metabolic pathways	b2235
+metG	metG	eco00450 / eco00970	Selenocompound metabolism / Aminoacyl-tRNA biosynthesis	b2114
+rpoE	rpoE	-	-	b2573
+lptB	lptB	eco02010	ABC transporters	b3201
+mreB	mreB	-	-	b3251
+pheT	pheT	eco00970	Aminoacyl-tRNA biosynthesis	b1713
+lolC	lolC	eco02010	ABC transporters	b1116
+kdsB	kdsB	eco00540 / eco01100	Lipopolysaccharide biosynthesis / Metabolic pathways	b0918
+purB	purB	eco00230 / eco00250 / eco01100 / eco01110 / eco01130	Purine metabolism / Alanine, aspartate and glutamate metabolism / Metabolic pathways / Biosynthesis of secondary metabolites / Biosynthesis of antibiotics	b1131
+bamA	bamA	-	-	b0177
+lepB	lepB	eco02024 / eco03060	Quorum sensing / Protein export	b2568
+yhbV	yhbV	-	-	b3159
+tilS	tilS	-	-	b0188
+suhB	suhB	eco00521 / eco00562 / eco01100	Streptomycin biosynthesis / Inositol phosphate metabolism / Metabolic pathways	b2533
+lnt	lnt	-	-	b0657
+asd	asd	eco00260 / eco00261 / eco00270 / eco00300 / eco01100 / eco01110 / eco01120 / eco01130 / eco01210 / eco01230	Glycine, serine and threonine metabolism / Monobactam biosynthesis / Cysteine and methionine metabolism / Lysine biosynthesis / Metabolic pathways / Biosynthesis of secondary metabolites / Microbial metabolism in diverse environments / Biosynthesis of antibiotics / 2-Oxocarboxylic acid metabolism / Biosynthesis of amino acids	b3433
+lptA	lptA	-	-	b3200
+lspA	lspA	eco03060	Protein export	b0027
+rho	rho	eco03018	RNA degradation	b3783
+hemL	hemL	eco00860 / eco01100 / eco01110	Porphyrin and chlorophyll metabolism / Metabolic pathways / Biosynthesis of secondary metabolites	b0154
+rplL	rplL	eco03010	Ribosome	b3986
+rpsN	rpsN	eco03010	Ribosome	b3307
+murJ	murJ	eco00550	Peptidoglycan biosynthesis	b1069
+ubiA	ubiA	eco00130 / eco01100 / eco01110	Ubiquinone and other terpenoid-quinone biosynthesis / Metabolic pathways / Biosynthesis of secondary metabolites	b4040
+ribE	ribC	eco00740 / eco01100 / eco01110	Riboflavin metabolism / Metabolic pathways / Biosynthesis of secondary metabolites	b1662
+ydiL	ydiL	-	-	b1689
+glmM	glmM	eco00520 / eco01100 / eco01130	Amino sugar and nucleotide sugar metabolism / Metabolic pathways / Biosynthesis of antibiotics	b3176
+ribD	ribD	eco00740 / eco01100 / eco01110 / eco02024	Riboflavin metabolism / Metabolic pathways / Biosynthesis of secondary metabolites / Quorum sensing	b0414
+kdsA	kdsA	eco00540 / eco01100	Lipopolysaccharide biosynthesis / Metabolic pathways	b1215
+lpxA	lpxA	eco00540 / eco01100 / eco01503	Lipopolysaccharide biosynthesis / Metabolic pathways / Cationic antimicrobial peptide (CAMP) resistance	b0181
+thiL	thiL	eco00730 / eco01100	Thiamine metabolism / Metabolic pathways	b0417
+tadA	tadA	-	-	b2559
+lpxC	lpxC	eco00540 / eco01100	Lipopolysaccharide biosynthesis / Metabolic pathways	b0096
+plsB	plsB	eco00561 / eco00564 / eco01100 / eco01110	Glycerolipid metabolism / Glycerophospholipid metabolism / Metabolic pathways / Biosynthesis of secondary metabolites	b4041
+orn	orn	-	-	b4162
+hemA	hemA	eco00860 / eco01100 / eco01110	Porphyrin and chlorophyll metabolism / Metabolic pathways / Biosynthesis of secondary metabolites	b1210
+cca	cca	-	-	b3056
+wzyE	wzyE	-	-	b3793
+hemD	hemD	eco00860 / eco01100 / eco01110	Porphyrin and chlorophyll metabolism / Metabolic pathways / Biosynthesis of secondary metabolites	b3804
+yrfF	yrfF	-	-	b3398
+hemG	hemG	eco00860 / eco01100 / eco01110	Porphyrin and chlorophyll metabolism / Metabolic pathways / Biosynthesis of secondary metabolites	b3850
+cydA	cydA	eco00190 / eco01100 / eco02020	Oxidative phosphorylation / Metabolic pathways / Two-component system	b0733
+cydC	cydC	eco02010	ABC transporters	b0886
+lolB	lolB	-	-	b1209
+csrA	csrA	eco02020	Two-component system	b2696
+ftsL	ftsL	-	-	b0083
+mukB	mukB	-	-	b0924
+mukE	mukE	-	-	b0923
+ftsB	ftsB	-	-	b2748
+secE	secE	eco02024 / eco03060 / eco03070	Quorum sensing / Protein export / Bacterial secretion system	b3981
+cohE	cohE	-	-	b1145
+secM	secM	eco03060 / eco03070	Protein export / Bacterial secretion system	b0097
+mreD	mreD	-	-	b3249
+zipA	zipA	-	-	b2412
+rplW	rplW	eco03010	Ribosome	b3318
+accC	accC	eco00061 / eco00620 / eco00640 / eco01100 / eco01110 / eco01120 / eco01130 / eco01200 / eco01212	Fatty acid biosynthesis / Pyruvate metabolism / Propanoate metabolism / Metabolic pathways / Biosynthesis of secondary metabolites / Microbial metabolism in diverse environments / Biosynthesis of antibiotics / Carbon metabolism / Fatty acid metabolism	b3256
+accA	accA	eco00061 / eco00620 / eco00640 / eco01100 / eco01110 / eco01120 / eco01130 / eco01200 / eco01212	Fatty acid biosynthesis / Pyruvate metabolism / Propanoate metabolism / Metabolic pathways / Biosynthesis of secondary metabolites / Microbial metabolism in diverse environments / Biosynthesis of antibiotics / Carbon metabolism / Fatty acid metabolism	b0185
+ffh	ffh	eco02024 / eco03060 / eco03070	Quorum sensing / Protein export / Bacterial secretion system	b2610
+waaU	waaU	eco00540 / eco01100	Lipopolysaccharide biosynthesis / Metabolic pathways	b3623
+rpoA	rpoA	eco00230 / eco00240 / eco01100 / eco03020	Purine metabolism / Pyrimidine metabolism / Metabolic pathways / RNA polymerase	b3295
+coaBC	dfp	eco00770 / eco01100	Pantothenate and CoA biosynthesis / Metabolic pathways	b3639
+hemH	hemH	eco00860 / eco01100 / eco01110	Porphyrin and chlorophyll metabolism / Metabolic pathways / Biosynthesis of secondary metabolites	b0475
+alsK	alsK	eco00051 / eco01120	Fructose and mannose metabolism / Microbial metabolism in diverse environments	b4084
+degS	degS	-	-	b3235
+ispG	ispG	eco00900 / eco01100 / eco01110 / eco01130	Terpenoid backbone biosynthesis / Metabolic pathways / Biosynthesis of secondary metabolites / Biosynthesis of antibiotics	b2515
+thrS	thrS	eco00970	Aminoacyl-tRNA biosynthesis	b1719
+infA	infA	-	-	b0884
+def	def	-	-	b3287
+rpmC	rpmC	eco03010	Ribosome	b3312
+folD	folD	eco00670 / eco01100 / eco01120 / eco01200	One carbon pool by folate / Metabolic pathways / Microbial metabolism in diverse environments / Carbon metabolism	b0529
+hemC	hemC	eco00860 / eco01100 / eco01110	Porphyrin and chlorophyll metabolism / Metabolic pathways / Biosynthesis of secondary metabolites	b3805
+rplM	rplM	eco03010	Ribosome	b3231
+murD	murD	eco00471 / eco00550 / eco01100	D-Glutamine and D-glutamate metabolism / Peptidoglycan biosynthesis / Metabolic pathways	b0088
+rpsD	rpsD	eco03010	Ribosome	b3296
+rplS	rplS	eco03010	Ribosome	b2606
+groS	groS	-	-	b4142
+rpsR	rpsR	eco03010	Ribosome	b4202
+mreC	mreC	-	-	b3250
+pyrH	pyrH	eco00240 / eco01100	Pyrimidine metabolism / Metabolic pathways	b0171
+cdsA	cdsA	eco00564 / eco01100 / eco01110	Glycerophospholipid metabolism / Metabolic pathways / Biosynthesis of secondary metabolites	b0175
+ftsZ	ftsZ	-	-	b0095
+murG	murG	eco00550 / eco01100 / eco01502	Peptidoglycan biosynthesis / Metabolic pathways / Vancomycin resistance	b0090
+rplB	rplB	eco03010	Ribosome	b3317
+prs	prs	eco00030 / eco00230 / eco01100 / eco01110 / eco01120 / eco01130 / eco01200 / eco01230	Pentose phosphate pathway / Purine metabolism / Metabolic pathways / Biosynthesis of secondary metabolites / Microbial metabolism in diverse environments / Biosynthesis of antibiotics / Carbon metabolism / Biosynthesis of amino acids	b1207
+cysS	cysS	eco00970	Aminoacyl-tRNA biosynthesis	b0526
+nrdA	nrdA	eco00230 / eco00240 / eco01100	Purine metabolism / Pyrimidine metabolism / Metabolic pathways	b2234
+racR	racR	-	-	b1356
+secY	secY	eco02024 / eco03060 / eco03070	Quorum sensing / Protein export / Bacterial secretion system	b3300
+yidC	yidC	eco02024 / eco03060 / eco03070	Quorum sensing / Protein export / Bacterial secretion system	b3705
+coaD	coaD	eco00770 / eco01100	Pantothenate and CoA biosynthesis / Metabolic pathways	b3634
+adk	adk	eco00230 / eco01100 / eco01110 / eco01130	Purine metabolism / Metabolic pathways / Biosynthesis of secondary metabolites / Biosynthesis of antibiotics	b0474
+rpsA	rpsA	eco03010	Ribosome	b0911
+lolE	lolE	eco02010	ABC transporters	b1118
+murB	murB	eco00520 / eco00550 / eco01100	Amino sugar and nucleotide sugar metabolism / Peptidoglycan biosynthesis / Metabolic pathways	b3972
+gltX	gltX	eco00860 / eco00970 / eco01100 / eco01110	Porphyrin and chlorophyll metabolism / Aminoacyl-tRNA biosynthesis / Metabolic pathways / Biosynthesis of secondary metabolites	b2400
+dxs	dxs	eco00730 / eco00900 / eco01100 / eco01110 / eco01130	Thiamine metabolism / Terpenoid backbone biosynthesis / Metabolic pathways / Biosynthesis of secondary metabolites / Biosynthesis of antibiotics	b0420
+ssb	ssb	eco03030 / eco03430 / eco03440	DNA replication / Mismatch repair / Homologous recombination	b4059
+lptF	lptF	eco02010	ABC transporters	b4261
+frr	frr	-	-	b0172
+lptC	lptC	-	-	b3199
+dnaB	dnaB	eco03030	DNA replication	b4052
+map	map	-	-	b0168
+fabD	fabD	eco00061 / eco01100 / eco01212	Fatty acid biosynthesis / Metabolic pathways / Fatty acid metabolism	b1092
+psd	psd	eco00564 / eco01100 / eco01110	Glycerophospholipid metabolism / Metabolic pathways / Biosynthesis of secondary metabolites	b4160
+-	ydfB	-	-	b1572
+dnaC	dnaC	-	-	b4361
+fbaA	fbaA	eco00010 / eco00030 / eco00051 / eco00680 / eco01100 / eco01110 / eco01120 / eco01130 / eco01200 / eco01230	Glycolysis / Gluconeogenesis / Pentose phosphate pathway / Fructose and mannose metabolism / Methane metabolism / Metabolic pathways / Biosynthesis of secondary metabolites / Microbial metabolism in diverse environments / Biosynthesis of antibiotics / Carbon metabolism / Biosynthesis of amino acids	b2925
+ftsH	ftsH	-	-	b3178
+parE	parE	-	-	b3030
+rplX	rplX	eco03010	Ribosome	b3309
+rsmI	rsmI	-	-	b3146
+rpsP	rpsP	eco03010	Ribosome	b2609
+fusA	fusA	-	-	b3340
+ftsI	ftsI	eco00550 / eco01501	Peptidoglycan biosynthesis / beta-Lactam resistance	b0084
+trpS	trpS	eco00970	Aminoacyl-tRNA biosynthesis	b3384
+lpxH	lpxH	eco00540 / eco01100	Lipopolysaccharide biosynthesis / Metabolic pathways	b0524
+ftsX	ftsX	eco02010	ABC transporters	b3462
+bcsB	bcsB	-	-	b3532
+folC	folC	eco00790 / eco01100	Folate biosynthesis / Metabolic pathways	b2315
+lolA	lolA	-	-	b0891
+murA	murA	eco00520 / eco00550 / eco01100	Amino sugar and nucleotide sugar metabolism / Peptidoglycan biosynthesis / Metabolic pathways	b3189
+ispA	ispA	eco00900 / eco01100 / eco01110 / eco01130	Terpenoid backbone biosynthesis / Metabolic pathways / Biosynthesis of secondary metabolites / Biosynthesis of antibiotics	b0421
+yhhQ	yhhQ	-	-	b3471
+glmS	glmS	eco00250 / eco00520 / eco01100 / eco01130	Alanine, aspartate and glutamate metabolism / Amino sugar and nucleotide sugar metabolism / Metabolic pathways / Biosynthesis of antibiotics	b3729
+ppa	ppa	eco00190	Oxidative phosphorylation	b4226
+gpsA	gpsA	eco00564 / eco01110	Glycerophospholipid metabolism / Biosynthesis of secondary metabolites	b3608
+chpR	mazE	-	-	b2783
+holA	holA	eco00230 / eco00240 / eco01100 / eco03030 / eco03430 / eco03440	Purine metabolism / Pyrimidine metabolism / Metabolic pathways / DNA replication / Mismatch repair / Homologous recombination	b0640
+groL	groL	eco03018	RNA degradation	b4143
+rpsK	rpsK	eco03010	Ribosome	b3297
+rplO	rplO	eco03010	Ribosome	b3301
+yafN	yafN	-	-	b0232
+gyrA	gyrA	-	-	b2231
+gyrB	gyrB	-	-	b3699
+murE	murE	eco00300 / eco00550	Lysine biosynthesis / Peptidoglycan biosynthesis	b0085
+holB	holB	eco00230 / eco00240 / eco01100 / eco03030 / eco03430 / eco03440	Purine metabolism / Pyrimidine metabolism / Metabolic pathways / DNA replication / Mismatch repair / Homologous recombination	b1099
+yqgF	yqgF	-	-	b2949
+lpxB	lpxB	eco00540 / eco01100	Lipopolysaccharide biosynthesis / Metabolic pathways	b0182
+proS	proS	eco00970	Aminoacyl-tRNA biosynthesis	b0194
+nusA	nusA	-	-	b3169
+birA	birA	eco00780 / eco01100	Biotin metabolism / Metabolic pathways	b3973
+coaA	coaA	eco00770 / eco01100	Pantothenate and CoA biosynthesis / Metabolic pathways	b3974
+dxr	dxr	eco00900 / eco01100 / eco01110 / eco01130	Terpenoid backbone biosynthesis / Metabolic pathways / Biosynthesis of secondary metabolites / Biosynthesis of antibiotics	b0173
+rplD	rplD	eco03010	Ribosome	b3319
+glyS	glyS	eco00970	Aminoacyl-tRNA biosynthesis	b3559
+tyrS	tyrS	eco00970	Aminoacyl-tRNA biosynthesis	b1637
+leuS	leuS	eco00970	Aminoacyl-tRNA biosynthesis	b0642
+ispE	ispE	eco00900 / eco01100 / eco01110 / eco01130	Terpenoid backbone biosynthesis / Metabolic pathways / Biosynthesis of secondary metabolites / Biosynthesis of antibiotics	b1208
+topA	topA	-	-	b1274
+ligA	ligA	eco03030 / eco03410 / eco03420 / eco03430	DNA replication / Base excision repair / Nucleotide excision repair / Mismatch repair	b2411
+eno	eno	eco00010 / eco00680 / eco01100 / eco01110 / eco01120 / eco01130 / eco01200 / eco01230 / eco03018	Glycolysis / Gluconeogenesis / Methane metabolism / Metabolic pathways / Biosynthesis of secondary metabolites / Microbial metabolism in diverse environments / Biosynthesis of antibiotics / Carbon metabolism / Biosynthesis of amino acids / RNA degradation	b2779
+-	fabG	eco00061 / eco00780 / eco01040 / eco01100 / eco01212	Fatty acid biosynthesis / Biotin metabolism / Biosynthesis of unsaturated fatty acids / Metabolic pathways / Fatty acid metabolism	b1093
+dnaG	dnaG	eco03030	DNA replication	b3066
+folK	folK	eco00790 / eco01100	Folate biosynthesis / Metabolic pathways	b0142
+tsaC	tsaC	-	-	b3282
+yceQ	yceQ	-	-	b1085
+uppS	ispU	eco00900 / eco01110	Terpenoid backbone biosynthesis / Biosynthesis of secondary metabolites	b0174
+pgk	pgk	eco00010 / eco01100 / eco01110 / eco01120 / eco01130 / eco01200 / eco01230	Glycolysis / Gluconeogenesis / Metabolic pathways / Biosynthesis of secondary metabolites / Microbial metabolism in diverse environments / Biosynthesis of antibiotics / Carbon metabolism / Biosynthesis of amino acids	b2926
+rpoD	rpoD	-	-	b3067
+metK	metK	eco00270 / eco01100 / eco01110 / eco01230	Cysteine and methionine metabolism / Metabolic pathways / Biosynthesis of secondary metabolites / Biosynthesis of amino acids	b2942
+ftsW	ftsW	-	-	b0089
+nusG	nusG	-	-	b3982
+pheS	pheS	eco00970	Aminoacyl-tRNA biosynthesis	b1714
+tnaB	tnaB	-	-	b3709
+dnaA	dnaA	eco02020	Two-component system	b3702
+pgsA	pgsA	eco00564 / eco01100	Glycerophospholipid metabolism / Metabolic pathways	b1912
+dnaE	dnaE	eco00230 / eco00240 / eco01100 / eco03030 / eco03430 / eco03440	Purine metabolism / Pyrimidine metabolism / Metabolic pathways / DNA replication / Mismatch repair / Homologous recombination	b0184
+ribF	ribF	eco00740 / eco01100 / eco01110	Riboflavin metabolism / Metabolic pathways / Biosynthesis of secondary metabolites	b0025
+argS	argS	eco00970	Aminoacyl-tRNA biosynthesis	b1876
+nadD	nadD	eco00760 / eco01100	Nicotinate and nicotinamide metabolism / Metabolic pathways	b0639
+lexA	lexA	-	-	b4043
+rplF	rplF	eco03010	Ribosome	b3305
+tsf	tsf	-	-	b0170
+rplT	rplT	eco03010	Ribosome	b1716
+prfA	prfA	-	-	b1211
+rplU	rplU	eco03010	Ribosome	b3186
+ribB	ribB	eco00740 / eco01100 / eco01110	Riboflavin metabolism / Metabolic pathways / Biosynthesis of secondary metabolites	b3041
+ftsE	ftsE	eco02010	ABC transporters	b3463
+ispD	ispD	eco00900 / eco01100 / eco01110 / eco01130	Terpenoid backbone biosynthesis / Metabolic pathways / Biosynthesis of secondary metabolites / Biosynthesis of antibiotics	b2747
+dnaX	dnaX	eco00230 / eco00240 / eco01100 / eco03030 / eco03430 / eco03440	Purine metabolism / Pyrimidine metabolism / Metabolic pathways / DNA replication / Mismatch repair / Homologous recombination	b0470
+fabB	fabB	eco00061 / eco00780 / eco01100 / eco01212	Fatty acid biosynthesis / Biotin metabolism / Metabolic pathways / Fatty acid metabolism	b2323
+accD	accD	eco00061 / eco00620 / eco00640 / eco01100 / eco01110 / eco01120 / eco01130 / eco01200 / eco01212	Fatty acid biosynthesis / Pyruvate metabolism / Propanoate metabolism / Metabolic pathways / Biosynthesis of secondary metabolites / Microbial metabolism in diverse environments / Biosynthesis of antibiotics / Carbon metabolism / Fatty acid metabolism	b2316
+rpsC	rpsC	eco03010	Ribosome	b3314
+rplV	rplV	eco03010	Ribosome	b3315
+lgt	lgt	-	-	b2828
+mqsA	mqsA	-	-	b3021
+rpsU	rpsU	eco03010	Ribosome	b3065
+rplC	rplC	eco03010	Ribosome	b3320
+murF	murF	eco00300 / eco00550 / eco01100 / eco01502	Lysine biosynthesis / Peptidoglycan biosynthesis / Metabolic pathways / Vancomycin resistance	b0086
+entD	entD	eco01053 / eco01110 / eco01130	Biosynthesis of siderophore group nonribosomal peptides / Biosynthesis of secondary metabolites / Biosynthesis of antibiotics	b0583
+mukF	mukF	-	-	b0922
+plsC	plsC	eco00561 / eco00564 / eco01100 / eco01110	Glycerolipid metabolism / Glycerophospholipid metabolism / Metabolic pathways / Biosynthesis of secondary metabolites	b3018
+ftsN	ftsN	-	-	b3933
+polA	polA	eco00230 / eco00240 / eco01100 / eco03030 / eco03410 / eco03420 / eco03440	Purine metabolism / Pyrimidine metabolism / Metabolic pathways / DNA replication / Base excision repair / Nucleotide excision repair / Homologous recombination	b3863
+ribA	ribA	eco00740 / eco01100 / eco01110 / eco02024	Riboflavin metabolism / Metabolic pathways / Biosynthesis of secondary metabolites / Quorum sensing	b1277
+tmk	tmk	eco00240 / eco01100	Pyrimidine metabolism / Metabolic pathways	b1098
+hisS	hisS	eco00970	Aminoacyl-tRNA biosynthesis	b2514
+obg	obgE	-	-	b3183
+infB	infB	-	-	b3168
+dicA	dicA	-	-	b1570
+rplR	rplR	eco03010	Ribosome	b3304
+yjeE	tsaE	-	-	b4168
+lptG	lptG	eco02010	ABC transporters	b4262
+glnS	glnS	eco00970 / eco01100	Aminoacyl-tRNA biosynthesis / Metabolic pathways	b0680
+serS	serS	eco00970	Aminoacyl-tRNA biosynthesis	b0893
+pyrG	pyrG	eco00240 / eco01100	Pyrimidine metabolism / Metabolic pathways	b2780
+acpS	acpS	eco00770	Pantothenate and CoA biosynthesis	b2563
+yeaZ	tsaB	-	-	b1807
+mrdB	mrdB	-	-	b0634
+alaS	alaS	eco00970	Aminoacyl-tRNA biosynthesis	b2697
+spoT	spoT	eco00230	Purine metabolism	b3650
+ileS	ileS	eco00970	Aminoacyl-tRNA biosynthesis	b0026
+aspS	aspS	eco00970	Aminoacyl-tRNA biosynthesis	b1866
+prmC	prmC	-	-	b1212
+murI	murI	eco00471 / eco01100	D-Glutamine and D-glutamate metabolism / Metabolic pathways	b3967
+der	der	-	-	b2511
+fmt	fmt	eco00670 / eco00970	One carbon pool by folate / Aminoacyl-tRNA biosynthesis	b3288
+folA	folA	eco00670 / eco00790 / eco01100	One carbon pool by folate / Folate biosynthesis / Metabolic pathways	b0048
+rpsE	rpsE	eco03010	Ribosome	b3303
+rplP	rplP	eco03010	Ribosome	b3313
+tsaD	tsaD	-	-	b3064
+gmk	gmk	eco00230 / eco01100	Purine metabolism / Metabolic pathways	b3648
+chpS	chpS	-	-	b4224
+glyQ	glyQ	eco00970	Aminoacyl-tRNA biosynthesis	b3560
+minE	minE	-	-	b1174
+nadE	nadE	eco00760 / eco01100	Nicotinate and nicotinamide metabolism / Metabolic pathways	b1740
+prfB	prfB	-	-	b2891
+lolD	lolD	eco02010	ABC transporters	b1117
+ftsA	ftsA	-	-	b0094
+rpsS	rpsS	eco03010	Ribosome	b3316
+rpmH	rpmH	eco03010	Ribosome	b3703
+rnpA	rnpA	-	-	b3704
+rpoB	rpoB	eco00230 / eco00240 / eco01100 / eco03020	Purine metabolism / Pyrimidine metabolism / Metabolic pathways / RNA polymerase	b3987
+rpoC	rpoC	eco00230 / eco00240 / eco01100 / eco03020	Purine metabolism / Pyrimidine metabolism / Metabolic pathways / RNA polymerase	b3988
+rpsG	rpsG	eco03010	Ribosome	b3341
+ispF	ispF	eco00900 / eco01100 / eco01110 / eco01130	Terpenoid backbone biosynthesis / Metabolic pathways / Biosynthesis of secondary metabolites / Biosynthesis of antibiotics	b2746
+ftsY	ftsY	eco02024 / eco03060 / eco03070	Quorum sensing / Protein export / Bacterial secretion system	b3464
+ispH	ispH	eco00900 / eco01100 / eco01110 / eco01130	Terpenoid backbone biosynthesis / Metabolic pathways / Biosynthesis of secondary metabolites / Biosynthesis of antibiotics	b0029
+murC	murC	eco00471 / eco00550 / eco01100	D-Glutamine and D-glutamate metabolism / Peptidoglycan biosynthesis / Metabolic pathways	b0091
+rpsB	rpsB	eco03010	Ribosome	b0169
+rpsJ	rpsJ	eco03010	Ribosome	b3321
+rplN	rplN	eco03010	Ribosome	b3310
+secA	secA	eco02024 / eco03060 / eco03070	Quorum sensing / Protein export / Bacterial secretion system	b0098
+ftsQ	ftsQ	-	-	b0093
+yefM	yefM	-	-	b2017
+kdtA	waaA	eco00540 / eco01100	Lipopolysaccharide biosynthesis / Metabolic pathways	b3633
+rseP	rseP	eco02024	Quorum sensing	b0176
+lptD	lptD	-	-	b0054
+lpxK	lpxK	eco00540 / eco01100	Lipopolysaccharide biosynthesis / Metabolic pathways	b0915
+rplQ	rplQ	eco03010	Ribosome	b3294
+hemB	hemB	eco00860 / eco01100 / eco01110	Porphyrin and chlorophyll metabolism / Metabolic pathways / Biosynthesis of secondary metabolites	b0369
+glmU	glmU	eco00520 / eco01100 / eco01130	Amino sugar and nucleotide sugar metabolism / Metabolic pathways / Biosynthesis of antibiotics	b3730
+trmD	trmD	-	-	b2607
+nadK	nadK	eco00760 / eco01100	Nicotinate and nicotinamide metabolism / Metabolic pathways	b2615
+fabI	fabI	eco00061 / eco00780 / eco01100 / eco01212	Fatty acid biosynthesis / Biotin metabolism / Metabolic pathways / Fatty acid metabolism	b1288
+mrdA	mrdA	eco00550 / eco01501	Peptidoglycan biosynthesis / beta-Lactam resistance	b0635
+pth	pth	-	-	b1204
+ftsK	ftsK	-	-	b0890
+coaE	coaE	eco00770 / eco01100	Pantothenate and CoA biosynthesis / Metabolic pathways	b0103
+ubiB	ubiB	-	-	b3835
+ispB	ispB	eco00900 / eco01110	Terpenoid backbone biosynthesis / Biosynthesis of secondary metabolites	b3187
+acpP	acpP	-	-	b1094
+rpmA	rpmA	eco03010	Ribosome	b3185
+rpsL	rpsL	eco03010	Ribosome	b3342
+era	era	-	-	b2566
+rpsH	rpsH	eco03010	Ribosome	b3306
+fabA	fabA	eco00061 / eco01100 / eco01212	Fatty acid biosynthesis / Metabolic pathways / Fatty acid metabolism	b0954
+rplE	rplE	eco03010	Ribosome	b3308
+valS	valS	eco00970	Aminoacyl-tRNA biosynthesis	b4258
+parC	parC	-	-	b3019
+secF	secF	eco03060 / eco03070	Protein export / Bacterial secretion system	b0409
+secD	secD	eco03060 / eco03070	Protein export / Bacterial secretion system	b0408
+lptE	lptE	-	-	b0641
+ribH	ribE	eco00740 / eco01100 / eco01110	Riboflavin metabolism / Metabolic pathways / Biosynthesis of secondary metabolites	b0415
+pssA	pssA	eco00260 / eco00564 / eco01100 / eco01110	Glycine, serine and threonine metabolism / Glycerophospholipid metabolism / Metabolic pathways / Biosynthesis of secondary metabolites	b2585
+rne	rne	eco03018	RNA degradation	b1084
+lpxD	lpxD	eco00540 / eco01100	Lipopolysaccharide biosynthesis / Metabolic pathways	b0179
+dnaN	dnaN	eco00230 / eco00240 / eco01100 / eco03030 / eco03430 / eco03440	Purine metabolism / Pyrimidine metabolism / Metabolic pathways / DNA replication / Mismatch repair / Homologous recombination	b3701
+accB	accB	eco00061 / eco00620 / eco00640 / eco01100 / eco01110 / eco01120 / eco01130 / eco01200 / eco01212	Fatty acid biosynthesis / Pyruvate metabolism / Propanoate metabolism / Metabolic pathways / Biosynthesis of secondary metabolites / Microbial metabolism in diverse environments / Biosynthesis of antibiotics / Carbon metabolism / Fatty acid metabolism	b3255
+mraY	mraY	eco00550 / eco01100 / eco01502	Peptidoglycan biosynthesis / Metabolic pathways / Vancomycin resistance	b0087
+fabZ	fabZ	eco00061 / eco00780 / eco01100 / eco01212	Fatty acid biosynthesis / Biotin metabolism / Metabolic pathways / Fatty acid metabolism	b0180
+tdcF	tdcF	-	-	b3113
+dut	dut	eco00240 / eco01100	Pyrimidine metabolism / Metabolic pathways	b3640
+engB	yihA	-	-	b3865
+yagG	yagG	-	-	b0270
+yejM	yejM	-	-	b2188
+can	can	eco00910	Nitrogen metabolism	b0126
+rplJ	rplJ	eco03010	Ribosome	b3985
+asnS	asnS	eco00970	Aminoacyl-tRNA biosynthesis	b0930
+infC	infC	-	-	b1718
+erpA	erpA	-	-	b0156
+ubiD	ubiD	eco00130 / eco01100 / eco01110	Ubiquinone and other terpenoid-quinone biosynthesis / Metabolic pathways / Biosynthesis of secondary metabolites	b3843

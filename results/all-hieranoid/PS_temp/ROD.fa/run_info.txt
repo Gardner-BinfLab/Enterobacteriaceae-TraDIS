@@ -1,0 +1,13 @@
+Program run as:
+phylosift search --isolate --besthit fasta-genome/ROD.fa
+Marker database version:
+http://edhar.genomecenter.ucdavis.edu/~koadman/phylosift_markers/markers.tgz
+1413946442
+Chunk 1 sequences processed 3360403584d517ab6eb83b19937f7c4f
+Chunk 1 Search completed	2020-02-16 15:19:01	2020-02-16 15:19:52	51
+Program run as:
+phylosift align --isolate --besthit fasta-genome/ROD.fa
+Marker database version:
+http://edhar.genomecenter.ucdavis.edu/~koadman/phylosift_markers/markers.tgz
+1413946442
+Chunk 1 Align completed	2020-02-16 16:53:03	2020-02-16 16:53:08	5

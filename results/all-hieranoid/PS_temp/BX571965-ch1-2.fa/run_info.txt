@@ -1,0 +1,13 @@
+Program run as:
+phylosift search --isolate --besthit fasta-genome/BX571965-ch1-2.fa
+Marker database version:
+http://edhar.genomecenter.ucdavis.edu/~koadman/phylosift_markers/markers.tgz
+1413946442
+Chunk 1 sequences processed 2ca30cd901737452e380fbb136a4a3fb
+Chunk 1 Search completed	2020-02-16 15:36:54	2020-02-16 15:45:30	516
+Program run as:
+phylosift align --isolate --besthit fasta-genome/BX571965-ch1-2.fa
+Marker database version:
+http://edhar.genomecenter.ucdavis.edu/~koadman/phylosift_markers/markers.tgz
+1413946442
+Chunk 1 Align completed	2020-02-16 16:54:50	2020-02-16 16:54:57	7

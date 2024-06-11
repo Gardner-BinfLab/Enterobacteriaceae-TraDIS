@@ -29,18 +29,7 @@ giant_table_adj <- giant_table %>% mutate_all(funs(ifelse(sapply(., function(x) 
 
 final_tab <- read.table("./data/giant-tab_final.tsv", header = T, sep = "\t")
 
-all_lts_sl1344 <- read.table("./results/hieranoid/all_sl1344_lts_clusters.tsv", header = F, sep = "\t") %>%
-  select(V1) %>% unlist()
 
-almost_all_lts_sl1344 <- read.table("../manuscript_analysis/manuscript_analysis/all_sl1344_lts.tsv", header = F, sep = "\t") %>%
-  select(V1) %>% unlist()
-
-# same in ROD
-all_lts_rod <- read.table("./results/hieranoid/all_ROD_lts_clusters.tsv", header = F, sep = "\t") %>%
-  select(V1) %>% unlist()
-
-almost_all_lts_rod <- read.table("../manuscript_analysis/manuscript_analysis/all_ROD_lts.tsv", header = F, sep = "\t") %>%
-  select(V1) %>% unlist()
 
 # select only used genomes from giant_table_all in colnames :
 # # names here: ("BN373"=c(), "ERS227112"=c(), "ROD"=c(), "SL1344"=c(), "SL3261"=c(), "STMMW"=c(), "STM"=c(), "SEN"=c(),

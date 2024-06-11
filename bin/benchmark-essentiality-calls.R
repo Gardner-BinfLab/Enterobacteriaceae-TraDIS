@@ -3,6 +3,14 @@ library(stringr)
 library("mclust")
 library(mixtools)
 library("plotrix")
+library('pROC')
+library(tidyverse)
+library(RColorBrewer)
+
+
+
+# change working directory
+setwd("./EnTrI/bin/")
 
 locus = c('BN373','ENC','ROD','SL1344','STMMW','t','ERS227112','NCTC13441','SEN','SL3261','STM', "EC958", "BW25113")
 address = c('Klebsiella_pneumoniae_subsp_pneumoniae_Ecl8_HF536482_v1.fasta','Enterobacter_cloacae_subsp_cloacae_NCTC_9394_v1.fasta',
@@ -35,7 +43,8 @@ dir.create(outdir_pca)
 outdir_pcaeq = paste(outdir, 'pca-eq.txt', sep='')
 file.create(outdir_pcaeq)
 # colors=c('blue', 'darkslategrey', 'limegreen', 'red', 'cyan', 'black', 'orange', 'purple', 'gray', 'brown', 'goldenrod4')
-colors=c("#c51b7d", "#e9a3c9", "#8c510a", "#d8b365", "#01665e", "#5ab4ac")
+#colors=c("#c51b7d", "#e9a3c9", "#8c510a", "#d8b365", "#01665e", "#5ab4ac")
+colors <- c("darkorange", brewer.pal(4, "Blues")[1:3], "darkred", brewer.pal(4, "Blues")[4])
 avgaucii=c(0,0)
 avgaucmc=c(0,0)
 avgaucconz=0
@@ -43,6 +52,13 @@ avgaucmeandist=0
 avgaucpca=0
 avgaucpca2=0
 ranks=c(0,0,0,0,0,0)
+auc_values_biotradis = list()
+auc_values_pca = list()
+
+# make a list of all rocs for all bacteria
+all_rocs <- list()
+all_ex_rocs <- list()
+
 for (i in seq(length(locus)))
 {
   real_old = read.table(paste('../results/ecogenecounterparts/',locus[i],'.txt',sep = ''), as.is=TRUE, header=FALSE, sep="\t")
@@ -76,6 +92,7 @@ for (i in seq(length(locus)))
   {
     predbiotradis <- prediction(biotradis[,j], real_new$essentiality)
     perfbiotradis <- performance(predbiotradis,"tpr","fpr")
+
     aucbiotradis <- c(aucbiotradis, performance(predbiotradis,measure = "auc")@y.values[[1]])
     if (j==2)
     {
@@ -83,9 +100,16 @@ for (i in seq(length(locus)))
     }
     else
     {
+      # check the auc values for different thresholds
+      all_rocs[[locus[i]]][["biotradis"]] <- perfbiotradis
+      roc_curve <- roc(real_new$essentiality, biotradis[,j])
+      all_ex_rocs[[locus[i]]][["biotradis"]] <- roc_curve
+      thresholds <- seq(0.25, 1, by = 0.25)
+      auc_values_biotradis[[locus[i]]] <- sapply(thresholds, function(threshold) { auc(roc_curve, partial.auc = c(0,threshold)) })
       mar.default <- c(5,4,4,2) + 0.1
       par(mar = mar.default + c(0, 1, 0, 0), cex.axis=2, family='sans')
       plot(perfbiotradis,col=colors[1],lty=1,lwd=4,cex.lab=2, main=dict[locus[i]], cex.main=2, ylim=c(0.6,1))
+      # check
     }
     
     perfbiotradismcc <- performance(predbiotradis,'mat')
@@ -100,14 +124,17 @@ for (i in seq(length(locus)))
   # for (j in seq(5))
   for (j in seq(2))
   {
-    predmontecarlo <- prediction(montecarlo[,j], real_new$essentiality)
+    predmontecarlo <- prediction(montecarlo[,j][!is.na(montecarlo[,j])], real_new$essentiality[!is.na(montecarlo[,j])])
     perfmontecarlo <- performance(predmontecarlo,"tpr","fpr")
+    rocmontecarlo <- roc(real_new$essentiality[!is.na(montecarlo[,j])], montecarlo[,j][!is.na(montecarlo[,j])])
     aucmontecarlo <- c(aucmontecarlo, performance(predmontecarlo,measure = "auc")@y.values[[1]])
     if (j==2)
     {
       plot(perfmontecarlo,col=colors[2],lty=1,lwd=4,cex.lab=2,cex.axis=2, cex.main=2, add=TRUE)
     }
-    
+
+    all_rocs[[locus[i]]][["perfmontecarlo"]] <- perfmontecarlo
+    all_ex_rocs[[locus[i]]][["montecarlo"]] <- rocmontecarlo
     perfmontecarlomcc <- performance(predmontecarlo,'mat')
     maxmcc = max(perfmontecarlomcc@y.values[[1]][!is.na(perfmontecarlomcc@y.values[[1]])])
     cutoff = perfmontecarlomcc@x.values[[1]][perfmontecarlomcc@y.values[[1]]==maxmcc & !is.na(perfmontecarlomcc@y.values[[1]])]
@@ -115,8 +142,8 @@ for (i in seq(length(locus)))
     avgaucmc[j] = avgaucmc[j] + aucmontecarlo[j]
   }
   
-  fastas_dir <- paste("~/EnTrI/data/fasta-protein/chromosome",address[i],sep='/')
-  plots_dir <- paste("~/EnTrI/data/plot-files/chromosome/",locus[i],".plot",sep="")
+  fastas_dir <- paste("../data/fasta-protein/chromosome",address[i],sep='/')
+  plots_dir <- paste("../data/plot-files/chromosome/",locus[i],".plot",sep="")
   plots = list()
   sumlength = list()
   plotfile = as.matrix(read.table(plots_dir, as.is=TRUE))
@@ -161,6 +188,10 @@ for (i in seq(length(locus)))
   consecutivezeros = consecutivezeros[real_old$gene %in% real_new$gene]
   predconz <- prediction(consecutivezeros, real_new$essentiality)
   perfconz <- performance(predconz,"tpr","fpr")
+  rocconz <- roc(real_new$essentiality, consecutivezeros)
+
+  all_rocs[[locus[i]]][["perfconz"]] <- perfconz
+  all_ex_rocs[[locus[i]]][["conz"]] <- rocconz
   aucconz <- performance(predconz,measure = "auc")@y.values[[1]]
   # plot(perfconz,col=colors[8],lty=1,lwd=4,cex.lab=1.5,xaxis.cex.axis=1.7,yaxis.cex.axis=1.7, add=TRUE)
   plot(perfconz,col=colors[3],lty=1,lwd=4,cex.lab=2,cex.axis=2,cex.main=2, add=TRUE)
@@ -174,6 +205,10 @@ for (i in seq(length(locus)))
   meandist = meandist[real_old$gene %in% real_new$gene]
   predmeandist <- prediction(meandist, real_new$essentiality)
   perfmeandist <- performance(predmeandist,"tpr","fpr")
+    rocmeandist <- roc(real_new$essentiality, meandist)
+  all_rocs[[locus[i]]][["perfmeandist"]] <- perfmeandist
+    all_ex_rocs[[locus[i]]][["meandist"]] <- rocmeandist
+
   aucmeandist <- performance(predmeandist,measure = "auc")@y.values[[1]]
   # plot(perfmeandist,col=colors[9],lty=1,lwd=4,cex.lab=1.5,xaxis.cex.axis=1.7,yaxis.cex.axis=1.7, add=TRUE)
   plot(perfmeandist,col=colors[4],lty=1,lwd=4,cex.lab=2,cex.axis=2, cex.main=2, add=TRUE)
@@ -207,7 +242,14 @@ for (i in seq(length(locus)))
   
   predpca <- prediction(data.pca$x[,1], real_new$essentiality)
   perfpca <- performance(predpca,"tpr","fpr")
+  roc_curve <- roc(real_new$essentiality, data.pca$x[,1])
+
+  all_rocs[[locus[i]]][["perfpca"]] <- perfpca
+    all_ex_rocs[[locus[i]]][["pca"]] <- roc_curve
   aucpca <- performance(predpca,measure = "auc")@y.values[[1]]
+  roc_curve <- roc(real_new$essentiality, data.pca$x[,1])
+  thresholds <- seq(0.25, 1, by = 0.25)
+  auc_values_pca[[locus[i]]] <- sapply(thresholds, function(threshold) { auc(roc_curve, partial.auc = c(0,threshold)) })
   # plot(perfpca,col=colors[10],lty=1,lwd=4,cex.lab=1.5,xaxis.cex.axis=1.7,yaxis.cex.axis=1.7, add=TRUE)
   plot(perfpca,col=colors[5],lty=1,lwd=4,cex.lab=2,cex.axis=2, cex.main=2, add=TRUE)
   
@@ -240,6 +282,10 @@ for (i in seq(length(locus)))
   
   predpca2 <- prediction(data2.pca$x[,1], real_new$essentiality)
   perfpca2 <- performance(predpca2,"tpr","fpr")
+    roc_curve <- roc(real_new$essentiality, data2.pca$x[,1])
+  all_rocs[[locus[i]]][["perfpca2"]] <- perfpca2
+    all_ex_rocs[[locus[i]]][["pca2"]] <- roc_curve
+
   aucpca2 <- performance(predpca2,measure = "auc")@y.values[[1]]
   # plot(perfpca,col=colors[10],lty=1,lwd=4,cex.lab=1.5,xaxis.cex.axis=1.7,yaxis.cex.axis=1.7, add=TRUE)
   plot(perfpca2,col=colors[6],lty=1,lwd=4,cex.lab=2,cex.axis=2, cex.main=2, add=TRUE)
@@ -409,3 +455,149 @@ dev.off()
 # auctnseq <- performance(predtnseq,measure = "auc")@y.values[[1]]
 
 print(ranks)
+
+
+# get # index of x.value closest to 0.01, 0.05, 0.1
+thresholds <- c(0.05, 0.1, 0.15, 0.2)
+
+# get all the roc values for all the all_rocs list
+
+acc_df <- data.frame ( sapply(all_rocs$BW25113, function(y) {
+
+  sapply(thresholds, function(threshold) {
+    index <- which.min(abs(threshold - y@x.values[[1]]))
+    y@y.values[[1]][index]
+})
+}), FPR = thresholds) %>% pivot_longer(cols = -FPR, names_to = 'method', values_to = 'TPR')
+
+# calculate # of false negatives
+# start by getting the total number of actual positives and negatives
+tot_neg <- sum(real_new$essentiality == 0)
+tot_pos <- sum(real_new$essentiality == 1)
+
+acc_df$specificity <- 1 - acc_df$FPR
+acc_df$tot_pred_neg <- round((tot_neg + tot_pos) * acc_df$specificity)
+acc_df$tot_pred_pos <- round((tot_neg + tot_pos) * acc_df$FPR)
+
+acc_df$tot_FP <- round(acc_df$FPR * acc_df$tot_pred_pos)
+
+acc_df$tot_TP <- acc_df$TPR * tot_pos
+acc_df$tot_FN <- tot_pos - acc_df$tot_TP
+
+
+
+# make a ggplot with the data. x axis is threshold(FPR), y axis is TPR, color is method. make a line plot
+pnew <- ggplot(acc_df, aes(x = FPR, y = TPR, fill = method)) +
+  geom_bar(stat = 'identity', position = 'dodge') +
+  coord_cartesian(ylim = c(0.7, 1)) +
+  scale_fill_manual(values=colors) +
+  theme_bw() +
+  # remove background lines
+  theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
+
+pnew
+svg('../figures/roc_bar_plot.svg', width = 5, height = 2)
+print(pnew)
+dev.off()
+
+
+
+
+# make the same df as in acc_df but for all the methods in the all_rocs list (lapply). So get 1 df for each method
+
+all_acc_df <- lapply(all_rocs, function(x) {
+  acc_df <- data.frame ( sapply(x, function(y) {
+
+    sapply(thresholds, function(threshold) {
+      index <- which.min(abs(threshold - y@x.values[[1]]))
+      y@y.values[[1]][index]
+    })
+    }), FPR = thresholds) %>% pivot_longer(cols = -FPR, names_to = 'method', values_to = 'TPR')
+
+    acc_df$specificity <- 1 - acc_df$FPR
+    acc_df$tot_pred_neg <- round((tot_neg + tot_pos) * acc_df$specificity)
+    acc_df$tot_pred_pos <- round((tot_neg + tot_pos) * acc_df$FPR)
+
+    acc_df$tot_FP <- round(acc_df$FPR * acc_df$tot_pred_pos)
+
+    acc_df$tot_TP <- round(acc_df$TPR * tot_pos)
+    acc_df$tot_FN <- round(tot_pos - acc_df$tot_TP)
+
+
+    return(acc_df)
+})
+
+# name the list by strain names, as in dict
+names(all_acc_df) <- dict[names(all_acc_df)]
+
+# now rbind all the dfs in the list. before add a column with the strain name
+all_acc_df <- lapply(names(all_acc_df), function(x) {
+  df <- all_acc_df[[x]]
+  df$strain <- x
+  return(df)
+})
+
+all_acc_df <- do.call(rbind, all_acc_df)
+
+library(ggpubr)
+
+all_acc_df$FPR <- as.factor(all_acc_df$FPR)
+
+
+# change method names: biotradis -> Insertion index, perfmontecarlo -> Monte Carlo DESeq, perfconz -> Largest Uninterrupted
+# Fraction, perfmeandist -> Mean Distance, perfpca -> PCA, perfpca2 -> PCA Excluding Monte Carlo
+all_acc_df$method <- factor(all_acc_df$method, levels = c('biotradis', 'perfmontecarlo', 'perfconz', 'perfmeandist', 'perfpca', 'perfpca2'),
+                            labels = c('Insertion index', 'Monte Carlo DESeq', 'Largest Uninterrupted Fraction', 'Mean Distance', 'PCA', 'PCA Excluding Monte Carlo'))
+
+
+# make a ggplot (boxplot + points) with the data. x axis is FPR, y axis is TPR and fill is method.
+pnew <- ggplot(all_acc_df, aes(x = FPR, y = TPR, fill = method)) +
+  geom_boxplot() +
+  geom_point(position = position_dodge(width = 0.75), size = 1.5, alpha=0.3) +
+  coord_cartesian(ylim = c(0.7, 1)) +
+  scale_fill_manual(values=colors) +
+  theme_bw() +
+  # put legend into lower right corner
+    theme(legend.position = c(0.8, 0.3),
+          legend.title = element_blank(),
+            legend.background = element_rect(fill = "white", size = 0.3, linetype = "solid", colour = "black"),
+          # increase axis text size and axis title size and legend text size
+            axis.text = element_text(size = 14),
+            axis.title = element_text(size = 16),
+            legend.text = element_text(size = 14))
+
+pnew
+
+svg('../figures/roc_box_plot.svg', width = 9, height = 5)
+print(pnew)
+dev.off()
+
+
+# make a table including False negatives for all 0.05 FPRs between insertion index and PCA
+comp <- all_acc_df %>% filter(FPR == 0.05, method %in% c('Insertion index', 'PCA')) %>%
+  select(strain, method, tot_FN)
+# make a matrix from the df without the index column
+comp <- as.matrix(comp)
+
+# make a nice table
+table_out <- ggtexttable(comp, theme = ttheme("blank")) %>%
+ tab_add_hline(at.row = c(1, 2), row.side = "top",  linetype = 1, linewidth = 5) %>%
+ tab_add_hline(at.row = tab_nrow(table_out), row.side = "bottom", linewidth = 5, linetype = 1) %>%
+  # add hline of linetype 1 to all rows except the first, second and last
+  tab_add_hline(at.row = seq(1, tab_nrow(table_out), by=2), row.side = "top", linetype = 2) %>%
+  # add hline of type 1 to alternate rows
+    tab_add_hline(at.row = seq(2, tab_nrow(table_out), by = 2), row.side = "top", linetype = 1) %>%
+ tab_add_vline(at.column = 2:tab_ncol(table_out), column.side = "left", from.row = 2, linetype = 2)
+table_out
+
+# save the table
+ggsave('../figures/roc_table.pdf', table_out, width = 4.5, height = 8)
+ggsave('../figures/roc_table.svg', table_out, width = 4.5, height = 8)
+
+
+head(all_ex_rocs$BW25113$biotradis$response, 50)
+head(all_ex_rocs$BW25113$biotradis$predictor, 50)
+head(all_ex_rocs$BW25113$biotradis$original.response, 50)
+
+sum(all_ex_rocs$BW25113$montecarlo$response)
+sum(all_ex_rocs$BW25113$conz$response)

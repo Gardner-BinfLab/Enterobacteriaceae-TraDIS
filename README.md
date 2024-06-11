@@ -17,12 +17,13 @@ Include Transposon Directed Insertion-site Sequencing (TraDIS) in several specie
 ## Prerequisites
 For running the analysis, the following programs are needed:
 * Phylosift
-* Hieranoid
-* RaxML
-* Weblogo
+* Hieranoid (v2)
+* RaxML (v8.0.0)
+* Weblogo (v3)
+* PastML v1.9.42
 * Python 3 and several libraries (see the Python scripts)
 * R and several libraries (see the R scripts)
-* Eggnog-mapper
+
 
 Below, the steps for different analyses in the manuscript are explained.
 

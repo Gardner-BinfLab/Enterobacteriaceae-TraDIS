@@ -113,6 +113,7 @@ results/all-hieranoid/hieranoid-result.txt
 * run additional_plots.R to generate additional plots, analyses (e.g. the PastML analysis), and the final table in 
 data/final_table_JJ.tsv . for running PastML, we additionally had to run the bash commands: 
   ```bash
+  cd data/pastml_reconstruction
   pastml --tree phylosift-aa-without-enterobacter.raxmlbootstrap.tre --data table_only_ess_genes.tsv --data_sep "\t" -v \
   -o pastml_ess_genes_nonconserved.txt --html_compressed pastml_ess_genes_nonconserved.html
   

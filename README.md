@@ -2,7 +2,7 @@
 
 - Name of project: High-throughput transposon mutagenesis in the family Enterobacteriaceae reveals core essential genes 
 and rapid turnover of essentiality
-- Paper link to biorxiv: https://www.biorxiv.org/content/10.1101/2022.10.20.512852
+- Paper link to biorxiv: https://journals.asm.org/doi/full/10.1128/mbio.01798-24
 - Authors: Fatemeh A. Ghomi, Jakob J. Jung, Gemma C. Langridge, Amy K. Cain, Christine Boinett, Moataz Abd El Ghany, 
 Derek J. Pickard, Robert A. Kingsley, Nicholas R. Thomson, Julian Parkhill, Paul P. Gardner, Lars Barquist
 - Status: in preparation (2024)
